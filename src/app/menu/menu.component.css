@@ -1,0 +1,5 @@
+.toolbar{
+    display: grid;
+    justify-content: center;
+    grid-column-gap: 200px;
+}

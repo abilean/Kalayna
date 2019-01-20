@@ -1,0 +1,38 @@
+.book-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+@media (min-width: 701px) {
+  .selected {
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    display: grid;
+    z-index: 2;
+    justify-items: center;
+    align-items: center;
+    background: white;
+    max-width: 80%;
+    max-height: 80%;
+    border: 10px;
+    border-color: black;
+
+    background-color: #161517;
+   
+    color: var(--yellow);
+  }
+}
+
+@media (max-width: 700px) {
+
+   .book-container{
+       grid-template-columns: 1fr
+   }
+    
+  .selected {
+    grid-column: 1/-1;
+  }
+}
