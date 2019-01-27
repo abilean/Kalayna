@@ -1,9 +1,9 @@
 p{
-    font-size: 2em
+    /* font-size: 2em */
 }
 
 mat-expansion-panel-header{
-    background-color: darkgray;
+    /* background-color: darkgray; */
 }
 
 .bio-container{

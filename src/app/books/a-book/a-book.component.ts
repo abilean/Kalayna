@@ -1,5 +1,6 @@
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter} from '@angular/core';
 import { Book } from '../book.model';
+
 
 @Component({
   selector: 'app-a-book',
@@ -15,6 +16,7 @@ export class ABookComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log(this.myBook.name);
   }
 
   handleClick(): void {

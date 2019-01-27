@@ -1,4 +1,4 @@
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "~@angular/material/prebuilt-themes/purple-green.css";
 
 :root {
     --yellow: #ffc600;
@@ -27,8 +27,8 @@
   }
 
 body{
-    background-color: #161517;
-    background-image: url("./assets/Images/shley-tree-2.png");
+    /* background-color: #161517; */
+    /* background-image: url("./assets/Images/shley-tree-2.png"); */
     color: var(--yellow);
 }
 

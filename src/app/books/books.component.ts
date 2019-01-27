@@ -1,5 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, HostListener  } from '@angular/core';
+import { MatDialog } from '@angular/material';
+
 import { Book, BookSeries} from './book.model';
+import { ABookComponent } from './a-book/a-book.component';
+import { BookDialogComponent } from './book-dialog/book-dialog.component';
 
 @Component({
   selector: 'app-books',
@@ -8,6 +12,9 @@ import { Book, BookSeries} from './book.model';
 })
 export class BooksComponent implements OnInit {
 
+
+
+  public innerWidth: any;
   public selectedBook = '';
 
   public books: Book[] = [
@@ -76,13 +83,28 @@ export class BooksComponent implements OnInit {
       }
   ];
 
-  constructor() { }
+  constructor(public dialog: MatDialog) { }
 
   ngOnInit() {
+    this.innerWidth = window.innerWidth;
   }
 
+  @HostListener('window:resize', ['$event'])
+  onResize(event) {
+    this.innerWidth = window.innerWidth;
+  }
+
+
   handleSelected(name: string): void {
+    if (this.innerWidth < 700) {
     this.selectedBook = name;
+  } else {
+    const modwidth = this.innerWidth * 0.75;
+    const modSelect = this.books.find( x => x.name === name);
+    const dialogRef = this.dialog.open(BookDialogComponent, {
+      data: modSelect
+    });
+  }
   }
 
 }

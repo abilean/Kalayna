@@ -5,6 +5,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatExpansionModule} from '@angular/material/expansion';
 import {MatChipsModule} from '@angular/material/chips';
 import { MatTabsModule} from '@angular/material/tabs';
+import {MatDialogModule} from '@angular/material';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -14,6 +15,7 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { FunStuffComponent } from './fun-stuff/fun-stuff.component';
 import { MenuComponent } from './menu/menu.component';
+import { BookDialogComponent } from './books/book-dialog/book-dialog.component';
 
 const appRoutes: Routes = [
   { path: 'books', component: BooksComponent },
@@ -34,7 +36,8 @@ const appRoutes: Routes = [
     HomeComponent,
     AboutComponent,
     FunStuffComponent,
-    MenuComponent
+    MenuComponent,
+    BookDialogComponent
   ],
   imports: [
     BrowserModule,
@@ -45,9 +48,11 @@ const appRoutes: Routes = [
     BrowserAnimationsModule,
     MatExpansionModule,
     MatChipsModule,
-    MatTabsModule
+    MatTabsModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent],
+  entryComponents: [BookDialogComponent]
 })
 export class AppModule { }
