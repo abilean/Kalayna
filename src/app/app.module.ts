@@ -6,6 +6,7 @@ import { MatExpansionModule} from '@angular/material/expansion';
 import {MatChipsModule} from '@angular/material/chips';
 import { MatTabsModule} from '@angular/material/tabs';
 import {MatDialogModule} from '@angular/material';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -17,8 +18,10 @@ import { FunStuffComponent } from './fun-stuff/fun-stuff.component';
 import { MenuComponent } from './menu/menu.component';
 import { BookDialogComponent } from './books/book-dialog/book-dialog.component';
 
+
 const appRoutes: Routes = [
   { path: 'books', component: BooksComponent },
+  { path: 'books/details', component: ABookComponent},
   { path: 'about', component: AboutComponent },
   { path: 'fun-stuff', component: FunStuffComponent},
   { path: '',
@@ -42,6 +45,7 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HttpClientModule,
     RouterModule.forRoot(
       appRoutes
     ),

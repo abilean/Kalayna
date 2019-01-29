@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter} from '@angular/core';
-import { Book } from '../book.model';
+import { IBook } from '../../shared/book.model';
 
 
 @Component({
@@ -9,7 +9,7 @@ import { Book } from '../book.model';
 })
 export class ABookComponent implements OnInit {
 
-  @Input() myBook: Book;
+  @Input() myBook: IBook;
   @Input() selected: Boolean = false;
   @Output() OnSelected = new EventEmitter();
 

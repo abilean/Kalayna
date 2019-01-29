@@ -1,13 +1,13 @@
 .main-container {
     display: grid;
     grid-gap: 20px;
-    grid-template-columns: 1fr 8fr 1fr;
+    grid-template-columns: 1fr;
     grid-template-rows: auto 50px 8fr 1fr;
     grid-template-areas: 
-      "header header header"
-      "menu menu menu"
-      "content content sidebar-right"
-      "footer footer footer";
+      "header"
+      "menu"
+      "content"
+      "footer";
   }
 
   @media(max-width: 700px){
@@ -17,7 +17,6 @@
       grid-template-areas: 
       "header"
       "content"
-      "sidebar-right"
       "footer";
     }
     .item-menu{
@@ -45,8 +44,4 @@
   .item-footer{
     grid-area: footer;
     background: green;
-  }
-  .item-sidebar-right{
-    grid-area: sidebar-right;
-    background: rgb(199, 15, 15);
   }

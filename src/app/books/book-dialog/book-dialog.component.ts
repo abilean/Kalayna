@@ -1,7 +1,7 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import { MatDialog , MAT_DIALOG_DATA } from '@angular/material';
 import { inject } from '@angular/core/testing';
-import { Book } from '../book.model';
+import { IBook } from '../../shared/book.model';
 
 @Component({
   selector: 'app-book-dialog',
@@ -10,7 +10,7 @@ import { Book } from '../book.model';
 })
 export class BookDialogComponent implements OnInit {
 
-  constructor(@Inject(MAT_DIALOG_DATA) public data: Book) { }
+  constructor(@Inject(MAT_DIALOG_DATA) public data: IBook) { }
 
   ngOnInit() {
   }

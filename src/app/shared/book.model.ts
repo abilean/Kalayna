@@ -4,7 +4,7 @@ export enum BookSeries {
     'One-shot',
 }
 
-export interface Book {
+export interface IBook {
 
 
     name: string;

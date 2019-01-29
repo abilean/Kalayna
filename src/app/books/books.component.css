@@ -5,6 +5,12 @@
   padding: 20px;
 }
 
+.book-img{
+  width: 100%;
+  max-width: 200px;
+  justify-self: center;
+}
+
 @media (min-width: 701px) {
   .selected {
     position: fixed;
@@ -36,3 +42,5 @@
     grid-column: 1/-1;
   }
 }
+
+
