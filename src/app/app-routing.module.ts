@@ -7,7 +7,6 @@ import { FunStuffComponent } from './fun-stuff/fun-stuff.component';
 
 const routes: Routes = [
   { path: 'books', pathMatch: 'full', component: BooksComponent },
-  // { path: 'book/:name', component: ABookComponent },
   { path: 'books/detail', component: ABookComponent },
   { path: 'about', component: AboutComponent },
   { path: 'fun-stuff', component: FunStuffComponent },

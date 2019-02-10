@@ -1,11 +1,9 @@
 import { Component, OnInit, HostListener } from '@angular/core';
 import { MatDialog } from '@angular/material';
 
-import { IBook, BookSeries } from '../shared/book.model';
-import { ABookComponent } from './a-book/a-book.component';
-import { BookDialogComponent } from './book-dialog/book-dialog.component';
+import { IBook } from '../shared/book.model';
 import { BookService } from '../shared/book.service';
-import { Router, RouterLinkWithHref } from '@angular/router';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-books',
@@ -107,14 +105,6 @@ export class BooksComponent implements OnInit {
   }
 
   handleSelected(bookName: string): void {
-    // if (this.innerWidth < 700) {
     this.router.navigate(['/books/detail', { name: bookName }]);
-    // } else {
-    //   const modwidth = this.innerWidth * 0.75;
-    //   const modSelect = this.books$.find(x => x.name === name);
-    //   const dialogRef = this.dialog.open(BookDialogComponent, {
-    //     data: modSelect
-    //   });
-    // }
   }
 }

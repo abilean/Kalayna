@@ -1,22 +1,18 @@
 export enum BookSeries {
-    'Alex Craft',
-    'Heaven',
-    'One-shot',
+  'Alex Craft',
+  'Heaven',
+  'One-shot'
 }
 
 export interface IBook {
-
-
-    name: string;
-    series: BookSeries;
-    imagePath: string;
-    description: string[];
-    firstChapter: string;
-
+  name: string;
+  series: BookSeries;
+  imagePath: string;
+  description: string[];
+  firstChapter: string[];
 }
 
-
 export interface IChapter {
-    name: string;
-    firstChapter: string;
+  name: string;
+  firstChapter: string[];
 }

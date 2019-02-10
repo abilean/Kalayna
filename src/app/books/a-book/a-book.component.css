@@ -1,20 +1,23 @@
-.book-item{
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-content: center;
+.book-item {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
 }
 
-.book-title{
-    text-align: center;
+.book-title {
+  text-align: center;
 }
 
-.book-img{
-    width: 100%;
-    max-width: 200px;
-    justify-self: center;
+.book-img {
+  width: 100%;
+  max-width: 200px;
+  justify-self: center;
 }
 
-.book-detail{
-    text-align: center;
-    
+.book-detail {
+  text-align: center;
+}
+
+p {
+  text-align: center;
 }

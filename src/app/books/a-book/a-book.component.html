@@ -5,11 +5,29 @@
     <h2 class="book-title img-rounded">{{ myBook.name }}</h2>
     <img class="book-img" [src]="myBook.imagePath" [alt]="myBook.name" />
   </div>
-  <div class="book-detail">
-    <h4>{{ myBook.name }}</h4>
-    <p *ngFor="let item of myBook.description">{{ item }}</p>
-    <div class="card-footer">
-      <p>link info</p>
-    </div>
+  <mat-tab-group>
+    <mat-tab label="Description">
+      <div class="book-detail">
+        <h4>{{ myBook.name }}</h4>
+        <p
+          class="text"
+          *ngFor="let item of myBook.description"
+          [innerHTML]="item"
+        ></p>
+      </div>
+    </mat-tab>
+    <mat-tab label="First Chapter">
+      <div class="book-chapters">
+        <p
+          class="text"
+          *ngFor="let item of myBook.firstChapter"
+          [innerHTML]="item"
+        ></p>
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+
+  <div class="card-footer">
+    <p>link info</p>
   </div>
 </div>
