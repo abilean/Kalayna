@@ -51,5 +51,35 @@
         "Alex’s investigation leads her deep into a web of sinister magic. When Briar Darque of the Magical Crimes Investigation Bureau gets involved, Alex finds herself with an unexpected ally of sorts. But as the dead continue to rise and wreak havoc on the living, can she get to the soul of the matter in time?"
       ],
       "firstChapter": "http://kalayna.com/excerptGR.html"
+    },
+    {
+      "name": "Once Bitten",
+      "Series": "Heaven",
+      "imagePath": "../../assets/Images/OnceBitten.jpg",
+      "description":  [
+        "For the past five years, Kita Nekai has faded into the background of the human world, but when a rogue shifter begins littering the city of Haven with bodies, Kita's illegal status lands her on the suspect list. During a confrontation with hunters that she can't win, rescue arrives in the form of the mysterious Nathanial Deaton. Kita soon wishes it hadn't when his method of saving her leaves her undead. With only three nights to prove her innocence and a new liquid diet to worry about, Kita doesn't want to deal with her infuriating rescuer or the ghost from her past who is determined to drag her back home. But, she needs help if she's going to stand any chance of survival."
+      ],
+      "firstChapter": "http://kalayna.com/OBexcerpt.html"
+    },
+    {
+      "name": "Twice Dead",
+      "Series": "Heaven",
+      "imagePath": "../../assets/Images/TwiceDead.jpg",
+      "description":  [
+        "Kita is adjusting to her new liquid diet--an adjustment she rather resents. Not that everything was chocolate and sunshine before (though both were possible before the sexy but infuriating Nathanial sank his fangs in her business). Kita's ability to shape shift into a kitten when her peers shifted into lions and tigers complicated her life, to say the least, but getting stuck in one form--that of a human shaped tick, a.k.a. a vampire--sucks, literally. Her adjustment period is violently interrupted when she discovers a headless corpse during a party for a visiting vampire council. But, the headless dancer won't be the only corpse she encounters.",
+        "Kita's involvement draws the attention of the Collector, an ancient vampire with an inclination to acquire two things: power and oddities. As a pureblood shifter turned vampire, Kita ranks high on the collectability list--not a safe place for anyone who values her freedom, and Kita is not the only one on the list. But with the body count rising, there is more at stake than freedom. A killer is slithering through the underbelly of Haven's vampire community, and with the supernaturals dealing in unnamed favors, it's a bad time to be a kitten who can't slip her skin."
+      ],
+      "firstChapter": "http://kalayna.com/tdexcerpt.html"
+    },
+    {
+      "name": "Third Blood",
+      "Series": "Heaven",
+      "imagePath": "../../assets/Images/Thirdblood.png",
+      "description":  [
+        "Going home after five years is difficult. It's harder still if you've changed species in the interim.",
+        "Kita Nekai, once the smallest shifter in Firth but now the newest vampire in the city of Haven, has no intention of returning home or informing her father and clan what she's become. Not that she has a choice. When the mage who holds her death certificate in his hands demands Kita return to Firth as his errand runner, she has to comply. Of course, there is no leaving her sire, Nathanial, behind. Which means introducing daddy dearest to the man—well, vampire—she may be falling for and confessing that she's lost the ability to shift. Talk about awkward.",
+        "Her homecoming goes from bad to worse when an attempt is made on her life, and Kita finds herself facing an unknown threat in a hostile world she never fit into in the first place. Can she survive long enough to complete the judge's task, stand trial before the elders for the rogues she created while on the run, and help defend her father's territory from an encroaching band of misfit shifters? Or is this cat down to her last life?"
+      ]
     }
+
 ]

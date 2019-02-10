@@ -19,17 +19,6 @@ import { MenuComponent } from './menu/menu.component';
 import { BookDialogComponent } from './books/book-dialog/book-dialog.component';
 
 
-const appRoutes: Routes = [
-  { path: 'books', component: BooksComponent },
-  { path: 'books/details', component: ABookComponent},
-  { path: 'about', component: AboutComponent },
-  { path: 'fun-stuff', component: FunStuffComponent},
-  { path: '',
-    redirectTo: '/books',
-    pathMatch: 'full'
-  },
-  { path: '**', component: BooksComponent }
-];
 
 @NgModule({
   declarations: [
@@ -46,9 +35,6 @@ const appRoutes: Routes = [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    RouterModule.forRoot(
-      appRoutes
-    ),
     BrowserAnimationsModule,
     MatExpansionModule,
     MatChipsModule,

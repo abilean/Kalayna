@@ -13,5 +13,10 @@ export interface IBook {
     description: string[];
     firstChapter: string;
 
+}
 
+
+export interface IChapter {
+    name: string;
+    firstChapter: string;
 }

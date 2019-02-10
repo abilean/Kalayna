@@ -1,15 +1,15 @@
-<div class="book-item">
-  <div (click)="handleClick()" class="book-item">
-    <h2 class="book-title img-rounded" >{{ myBook.name }}</h2>
-    <img
-      class="book-img"
-      [src]="myBook.imagePath"
-      [alt]="myBook.name"
-    />
+<mat-chip routerLink="/books">back</mat-chip>
+
+<div *ngIf="myBook" class="book-item">
+  <div class="book-item">
+    <h2 class="book-title img-rounded">{{ myBook.name }}</h2>
+    <img class="book-img" [src]="myBook.imagePath" [alt]="myBook.name" />
   </div>
-  <div class="book-detail" *ngIf="selected">
+  <div class="book-detail">
     <h4>{{ myBook.name }}</h4>
     <p *ngFor="let item of myBook.description">{{ item }}</p>
-    <div class="card-footer"><p>link info</p></div>
+    <div class="card-footer">
+      <p>link info</p>
+    </div>
   </div>
 </div>

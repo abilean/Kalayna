@@ -1,11 +1,11 @@
 <div class="book-container">
 
-  <div *ngFor='let book of books'>
+  <div *ngFor='let book of books$' >
       <img
       class="book-img"
       [src]="book.imagePath"
       [alt]="book.name"
-      (onclick)= 'handleSelected(book.name)'
+      (click)= 'handleSelected(book.name)'
     />
   </div>
 
