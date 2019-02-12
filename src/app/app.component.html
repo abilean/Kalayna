@@ -1,16 +1,17 @@
-<style>
-  
-  
-</style>
+<style></style>
 
 <div class="main-container">
   <div class="item item-header">
-    <img style='max-width: 100%;' src="../assets/Images/banner900.jpg" alt="Kalayna Price: USA Today Bestselling Urben Fanstasy Author">
+    <img
+      style="max-width: 100%;"
+      src="../assets/Images/banner900.jpg"
+      alt="Kalayna Price: USA Today Bestselling Urben Fanstasy Author"
+    />
   </div>
   <app-menu class="item item-menu"></app-menu>
- 
+
   <div class="item item-main-body">
-    <router-outlet></router-outlet>
+    <router-outlet (activate)="onActivate($event)"></router-outlet>
   </div>
   <div class="item item-footer">
     <p>footer</p>
