@@ -1,14 +1,3 @@
-p{
-    /* font-size: 2em */
+.bio-container {
+  display: grid;
 }
-
-mat-expansion-panel-header{
-    /* background-color: darkgray; */
-}
-
-.bio-container{
-    display: grid;
-
-}
-
-

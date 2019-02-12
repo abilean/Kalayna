@@ -1,13 +1,11 @@
 <div class="book-container">
-
-  <div *ngFor='let book of books$' >
-      <img
-      class="book-img"
-      [src]="book.imagePath"
-      [alt]="book.name"
-      (click)= 'handleSelected(book.name)'
-    />
-  </div>
+  <img
+    *ngFor="let book of books$"
+    class="book-img"
+    [src]="book.imagePath"
+    [alt]="book.name"
+    (click)="handleSelected(book.name)"
+  />
 
   <!-- <app-a-book [class.selected] = "selectedBook === book.name" 
               *ngFor="let book of books" 

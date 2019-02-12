@@ -21,3 +21,8 @@
 p {
   text-align: center;
 }
+
+.card-footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

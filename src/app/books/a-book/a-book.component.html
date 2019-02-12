@@ -5,7 +5,7 @@
     <h2 class="book-title img-rounded">{{ myBook.name }}</h2>
     <img class="book-img" [src]="myBook.imagePath" [alt]="myBook.name" />
   </div>
-  <mat-tab-group>
+  <mat-tab-group mat-align-tabs="center">
     <mat-tab label="Description">
       <div class="book-detail">
         <h4>{{ myBook.name }}</h4>
@@ -16,7 +16,7 @@
         ></p>
       </div>
     </mat-tab>
-    <mat-tab label="First Chapter">
+    <mat-tab *ngIf="myBook.firstChapter" label="First Chapter">
       <div class="book-chapters">
         <p
           class="text"
@@ -28,6 +28,29 @@
   </mat-tab-group>
 
   <div class="card-footer">
-    <p>link info</p>
+    <div class="link-box">
+      <p>Available at:</p>
+      <p *ngFor="let item of myBook.stores">
+        <a [href]="item.link">
+          {{ item.name }}
+        </a>
+      </p>
+    </div>
+    <div class="link-box">
+      <p>Audio Edition:</p>
+      <p *ngFor="let item of myBook.audio">
+        <a [href]="item.link">
+          {{ item.name }}
+        </a>
+      </p>
+    </div>
+    <div class="link-box" *ngIf="myBook.foreign">
+      <p>Overseas at:</p>
+      <p *ngFor="let item of myBook.foreign">
+        <a [href]="item.link">
+          {{ item.name }}
+        </a>
+      </p>
+    </div>
   </div>
 </div>
