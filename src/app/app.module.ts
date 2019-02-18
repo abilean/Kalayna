@@ -5,7 +5,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatTabsModule } from '@angular/material/tabs';
-import { MatDialogModule } from '@angular/material';
+import {
+  MatDialogModule,
+  MatButtonModule,
+  MatDividerModule,
+  MatIconModule
+} from '@angular/material';
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -16,6 +21,8 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { FunStuffComponent } from './fun-stuff/fun-stuff.component';
 import { MenuComponent } from './menu/menu.component';
+import { BlogComponent } from './blog/blog.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +32,9 @@ import { MenuComponent } from './menu/menu.component';
     HomeComponent,
     AboutComponent,
     FunStuffComponent,
-    MenuComponent
+    MenuComponent,
+    BlogComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
@@ -35,7 +44,10 @@ import { MenuComponent } from './menu/menu.component';
     MatExpansionModule,
     MatChipsModule,
     MatTabsModule,
-    MatDialogModule
+    MatDialogModule,
+    MatButtonModule,
+    MatDividerModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent],

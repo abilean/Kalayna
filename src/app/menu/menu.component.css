@@ -1,5 +1,12 @@
-.toolbar{
-    display: grid;
-    justify-content: center;
-    grid-column-gap: 200px;
+.toolbar {
+  display: grid;
+  justify-content: center;
+}
+
+mat-chip {
+  background: mat-color(primary);
+}
+
+.icons {
+  justify-self: right;
 }
