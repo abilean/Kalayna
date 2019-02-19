@@ -1,0 +1,20 @@
+.header {
+  display: grid;
+  justify-content: center;
+  line-height: 0;
+}
+
+#firstName {
+  font-size: 5em;
+  margin-bottom: 0.8em;
+}
+
+#lastName {
+  font-size: 5em;
+  margin: 0.45em 0;
+  margin-left: 2.1em;
+}
+
+#title {
+  justify-self: right;
+}

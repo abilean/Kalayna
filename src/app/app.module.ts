@@ -23,6 +23,7 @@ import { FunStuffComponent } from './fun-stuff/fun-stuff.component';
 import { MenuComponent } from './menu/menu.component';
 import { BlogComponent } from './blog/blog.component';
 import { FooterComponent } from './footer/footer.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +35,8 @@ import { FooterComponent } from './footer/footer.component';
     FunStuffComponent,
     MenuComponent,
     BlogComponent,
-    FooterComponent
+    FooterComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

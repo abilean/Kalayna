@@ -1,0 +1,57 @@
+// @import '../node_modules/@angular/material/prebuilt-themes/purple-green.css';
+
+@import '../node_modules/@angular/material/theming';
+
+@include mat-core();
+
+$primary: mat-palette($mat-blue-grey, 500, 700, 900);
+$accent: mat-palette($mat-light-blue, A200, 700, 900);
+$warn: mat-palette($mat-orange);
+
+$my-theme: mat-dark-theme($primary, $accent, $warn);
+
+@mixin my-components-theme($theme) {
+}
+
+.my-theme {
+  @include angular-material-theme($my-theme);
+  @include my-components-theme($my-theme);
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  background: mat-color($primary, 700);
+  color: mat-color($accent);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.mat-tab-group {
+  font-family: inherit;
+  color: inherit;
+}
+
+.link-box {
+  background: mat-color($primary, 500);
+  border-color: mat-color($primary, darker);
+}
+
+.header {
+  background: mat-color($accent, darker);
+}

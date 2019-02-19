@@ -6,7 +6,7 @@ import { BookService } from 'src/app/shared/book.service';
 @Component({
   selector: 'app-a-book',
   templateUrl: './a-book.component.html',
-  styleUrls: ['./a-book.component.css']
+  styleUrls: ['./a-book.component.scss']
 })
 export class ABookComponent implements OnInit {
   public myBook: IBook;
