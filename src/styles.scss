@@ -4,11 +4,11 @@
 
 @include mat-core();
 
-$primary: mat-palette($mat-blue-grey, 500, 700, 900);
-$accent: mat-palette($mat-light-blue, A200, 700, 900);
+$primary: mat-palette($mat-light-blue, 500, 700, 900);
+$accent: mat-palette($mat-orange, A200, 700, 900);
 $warn: mat-palette($mat-orange);
 
-$my-theme: mat-dark-theme($primary, $accent, $warn);
+$my-theme: mat-light-theme($primary, $accent, $warn);
 
 @mixin my-components-theme($theme) {
 }
@@ -26,9 +26,8 @@ $my-theme: mat-dark-theme($primary, $accent, $warn);
 
 body {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 300;
-  background: mat-color($primary, 700);
-  color: mat-color($accent);
+  font-weight: 500;
+  color: black;
 }
 
 h1,
@@ -48,10 +47,10 @@ h6 {
 }
 
 .link-box {
-  background: mat-color($primary, 500);
+  background: mat-color($primary, darker);
   border-color: mat-color($primary, darker);
 }
 
 .header {
-  background: mat-color($accent, darker);
+  background: mat-color($primary, darker);
 }
