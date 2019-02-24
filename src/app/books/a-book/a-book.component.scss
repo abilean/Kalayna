@@ -24,8 +24,8 @@
 }
 
 .card-footer > div {
-  display: grid;
-  justify-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .link-box > p {
@@ -33,10 +33,15 @@
   font-weight: 800;
 }
 
+.link-box > p > a {
+  min-width: 150px;
+}
+
 @media (max-width: 700px) {
   .card-footer {
     display: grid;
     grid-template-columns: 1fr;
+    justify-items: center;
   }
 }
 

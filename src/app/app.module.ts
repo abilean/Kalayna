@@ -9,7 +9,8 @@ import {
   MatDialogModule,
   MatButtonModule,
   MatDividerModule,
-  MatIconModule
+  MatIconModule,
+  MatTooltipModule
 } from '@angular/material';
 import { HttpClientModule } from '@angular/common/http';
 
@@ -49,7 +50,8 @@ import { HeaderComponent } from './header/header.component';
     MatDialogModule,
     MatButtonModule,
     MatDividerModule,
-    MatIconModule
+    MatIconModule,
+    MatTooltipModule
   ],
   providers: [],
   bootstrap: [AppComponent],
