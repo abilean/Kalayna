@@ -10,13 +10,7 @@ $warn: mat-palette($mat-orange);
 
 $my-theme: mat-light-theme($primary, $accent, $warn);
 
-@mixin my-components-theme($theme) {
-}
-
-.my-theme {
-  @include angular-material-theme($my-theme);
-  @include my-components-theme($my-theme);
-}
+@include angular-material-theme($my-theme);
 
 *,
 *:before,
@@ -47,10 +41,24 @@ h6 {
 }
 
 .link-box {
-  background: mat-color($primary, darker);
+  // background: mat-color($primary, lighter);
   border-color: mat-color($primary, darker);
 }
 
 .header {
   background: mat-color($primary, darker);
+}
+
+.footer {
+  background: mat-color($primary, darker);
+}
+
+p {
+  max-width: 80%;
+}
+
+.book-img {
+  width: 100%;
+  max-width: 200px;
+  justify-self: center;
 }

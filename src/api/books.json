@@ -2,7 +2,7 @@
   {
     "name": "Grave Witch",
     "series": "Alex Craft",
-    "imagePath": "../../assets/Images/GraveWitch.jpg",
+    "imagePath": "assets/Images/GraveWitch.jpg",
     "description": [
       "Grave witch Alex Craft can speak to the dead, but that doesn’t mean she likes what they have to say . . . ",
       "As a private investigator and consultant for the police, Alex Craft has seen a lot of dark magic. But even though she’s on good terms with Death himself—who happens to look fantastic in a pair of jeans—nothing has prepared her for her latest case. Alex is investigating a high profile murder when she’s attacked by the ‘shade’ she’s raising, which should be impossible. To top off her day, someone makes a serious attempt on her life, but Death saves her. Guess he likes having her around . . .",
@@ -216,7 +216,7 @@
   {
     "name": "Grave Dance",
     "series": "Alex Craft",
-    "imagePath": "../../assets/Images/GraveDancethumb.jpg",
+    "imagePath": "assets/Images/GraveDancethumb.jpg",
     "description": [
       "Whoever said dead men tell no tales obviously never met Alex Craft.",
       "After a month spent recovering from a vicious fight with a sorcerer, grave witch Alex Craft is ready to get back to solving murders by raising the dead. With her love life in turmoil thanks to the disappearance of Fae Investigation Bureau agent Falin Andrews and a shocking “L” word confession from Death himself, Alex is eager for the distractions of work. But her new case turns out to be a deadly challenge.",
@@ -406,7 +406,7 @@
   {
     "name": "Grave Memory",
     "series": "Alex Craft",
-    "imagePath": "../../assets/Images/GraveMemory.jpg",
+    "imagePath": "assets/Images/GraveMemory.jpg",
     "description": [
       "When the dead need to talk, Alex Craft is always ready to listen…",
       "As a Grave Witch, Alex solves murders by raising the dead—an ability that comes at a cost, and after her last few cases, that cost is compounding. But her magic isn’t the only thing causing havoc in her life. While she’s always been on friendly terms with Death himself, things have recently become a whole lot more close and personal. Then there’s her sometime partner, agent Falin Andrews, who is under the glamour of the Winter Queen. To top everything off, her best friend has been forever changed by her time spent captive in Faerie.",
@@ -536,7 +536,7 @@
   {
     "name": "Grave Vision",
     "series": "Alex Craft",
-    "imagePath": "../../assets/Images/GraveVisions.jpg",
+    "imagePath": "assets/Images/GraveVisions.jpg",
     "description": [
       "If a girl can't trust the dead, who can she trust?",
       "If you want to hear voices from the dead in Nekros City, you call Alex Craft. She’s a grave witch with reasonable rates and extraordinary powers who specializes in revealing the secrets of the dead. But now she’s the one fighting to keep her own secret. She’s not human—and her newly discovered heritage is causing havoc for her both in the human realm and in Faerie.",
@@ -663,7 +663,7 @@
   {
     "name": "Grave Ransom",
     "series": "Alex Craft",
-    "imagePath": "../../assets/Images/GraveRansom.jpg",
+    "imagePath": "assets/Images/GraveRansom.jpg",
     "description": [
       "Grave witch Alex Craft is no stranger to the dead talking. She raises shades, works with ghosts, and is dating Death himself. But the dead walking? That’s not supposed to happen. And yet reanimated corpses are committing crimes across Nekros City.",
       "Alex’s investigation leads her deep into a web of sinister magic. When Briar Darque of the Magical Crimes Investigation Bureau gets involved, Alex finds herself with an unexpected ally of sorts. But as the dead continue to rise and wreak havoc on the living, can she get to the soul of the matter in time?"
@@ -779,7 +779,7 @@
   {
     "name": "Grave Destiny",
     "series": "Alex Craft",
-    "imagePath": "../../assets/Images/GraveDestiny.jpg",
+    "imagePath": "assets/Images/GraveDestiny.jpg",
     "description": [
       "Available April 2, 2019",
       "The dead tell no tales, unless they have grave witch Alex Craft to speak for them. When a paranormal war threatens, Alex's unique abilities might be the only thing that can stop our world from being changed forever."
@@ -821,7 +821,7 @@
   {
     "name": "Once Bitten",
     "series": "Heaven",
-    "imagePath": "../../assets/Images/OnceBitten.jpg",
+    "imagePath": "assets/Images/OnceBitten.jpg",
     "description": [
       "For the past five years, Kita Nekai has faded into the background of the human world, but when a rogue shifter begins littering the city of Haven with bodies, Kita's illegal status lands her on the suspect list. During a confrontation with hunters that she can't win, rescue arrives in the form of the mysterious Nathanial Deaton. Kita soon wishes it hadn't when his method of saving her leaves her undead. With only three nights to prove her innocence and a new liquid diet to worry about, Kita doesn't want to deal with her infuriating rescuer or the ghost from her past who is determined to drag her back home. But, she needs help if she's going to stand any chance of survival."
     ],
@@ -934,7 +934,7 @@
   {
     "name": "Twice Dead",
     "series": "Heaven",
-    "imagePath": "../../assets/Images/TwiceDead.jpg",
+    "imagePath": "assets/Images/TwiceDead.jpg",
     "description": [
       "Kita is adjusting to her new liquid diet--an adjustment she rather resents. Not that everything was chocolate and sunshine before (though both were possible before the sexy but infuriating Nathanial sank his fangs in her business). Kita's ability to shape shift into a kitten when her peers shifted into lions and tigers complicated her life, to say the least, but getting stuck in one form--that of a human shaped tick, a.k.a. a vampire--sucks, literally. Her adjustment period is violently interrupted when she discovers a headless corpse during a party for a visiting vampire council. But, the headless dancer won't be the only corpse she encounters.",
       "Kita's involvement draws the attention of the Collector, an ancient vampire with an inclination to acquire two things: power and oddities. As a pureblood shifter turned vampire, Kita ranks high on the collectability list--not a safe place for anyone who values her freedom, and Kita is not the only one on the list. But with the body count rising, there is more at stake than freedom. A killer is slithering through the underbelly of Haven's vampire community, and with the supernaturals dealing in unnamed favors, it's a bad time to be a kitten who can't slip her skin."
@@ -1125,7 +1125,7 @@
   {
     "name": "Third Blood",
     "series": "Heaven",
-    "imagePath": "../../assets/Images/Thirdblood.png",
+    "imagePath": "assets/Images/Thirdblood.png",
     "description": [
       "Going home after five years is difficult. It's harder still if you've changed species in the interim.",
       "Kita Nekai, once the smallest shifter in Firth but now the newest vampire in the city of Haven, has no intention of returning home or informing her father and clan what she's become. Not that she has a choice. When the mage who holds her death certificate in his hands demands Kita return to Firth as his errand runner, she has to comply. Of course, there is no leaving her sire, Nathanial, behind. Which means introducing daddy dearest to the man—well, vampire—she may be falling for and confessing that she's lost the ability to shift. Talk about awkward.",
@@ -1135,7 +1135,7 @@
   {
     "name": "Kicking It",
     "series": "Other",
-    "imagePath": "../../assets/Images/KickingIt.jpg",
+    "imagePath": "assets/Images/KickingIt.jpg",
     "description": [
       "Featuring stories by SHANNON K. BUTCHER * RACHEL CAINE * LUCIENNE DIVER * CHRIS MARIE GREEN * CHRISTINA HENRY * FAITH HUNTER * CHLOE NEILL * KALAYNA PRICE * ROB THURMAN",
       "New York Times bestselling author Rachel Caine has modern-day potions witches Holly and Andrew facing off against a firebrand politician who wears literally killer boots in a Texas-sized rodeo of trouble.",

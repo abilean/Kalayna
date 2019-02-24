@@ -1,33 +1,43 @@
 .book-item {
   display: grid;
   grid-template-columns: 1fr;
-  justify-content: center;
+  //justify-items: stretch;
 }
 
 .book-title {
   text-align: center;
 }
 
-.book-img {
-  width: 100%;
-  max-width: 200px;
-  justify-self: center;
+.book-chapters {
+  margin-left: 10%;
 }
 
 .book-detail {
   text-align: center;
-}
-
-p {
-  text-align: center;
+  display: grid;
+  justify-items: center;
 }
 
 .card-footer {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
-.link-box {
-  border-style: ridge;
+
+.card-footer > div {
+  display: grid;
+  justify-items: center;
+}
+
+.link-box > p {
+  // border-style: ridge;
+  font-weight: 800;
+}
+
+@media (max-width: 700px) {
+  .card-footer {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }
 
 .mat-tab-group {

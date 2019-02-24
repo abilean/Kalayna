@@ -28,10 +28,11 @@
   </mat-tab-group>
 
   <div class="card-footer">
+    <div></div>
     <div class="link-box">
       <p>Available at:</p>
       <p *ngFor="let item of myBook.stores">
-        <a [href]="item.link">
+        <a mat-raised-button color="accent" [href]="item.link">
           {{ item.name }}
         </a>
       </p>
@@ -39,7 +40,7 @@
     <div class="link-box">
       <p>Audio Edition:</p>
       <p *ngFor="let item of myBook.audio">
-        <a [href]="item.link">
+        <a mat-raised-button color="accent" [href]="item.link">
           {{ item.name }}
         </a>
       </p>
@@ -47,10 +48,11 @@
     <div class="link-box" *ngIf="myBook.foreign">
       <p>Overseas at:</p>
       <p *ngFor="let item of myBook.foreign">
-        <a [href]="item.link">
+        <a mat-raised-button color="accent" [href]="item.link">
           {{ item.name }}
         </a>
       </p>
     </div>
+    <div></div>
   </div>
 </div>

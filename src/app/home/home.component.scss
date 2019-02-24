@@ -1,0 +1,10 @@
+.home {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 1fr;
+  text-align: center;
+}
+
+button {
+  max-width: 200px;
+}
