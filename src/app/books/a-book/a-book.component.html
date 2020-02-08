@@ -1,23 +1,29 @@
 <mat-chip routerLink="/books"><mat-icon>reply</mat-icon>Back</mat-chip>
 
-<div *ngIf="myBook" class="book-item">
-  <div class="book-item">
-    <h2 class="book-title img-rounded">{{ myBook.name }}</h2>
+<div *ngIf="myBook">
+  <div class="grid-1-center">
+    <h2 class="book-title ">{{ myBook.name }}</h2>
     <img class="book-img" [src]="myBook.imagePath" [alt]="myBook.name" />
   </div>
   <mat-tab-group mat-align-tabs="center">
     <mat-tab label="Description">
       <div class="book-detail">
-        <h4>{{ myBook.name }}</h4>
+        <h3>{{ myBook.name }}</h3>
+        <p>Book {{ myBook.bookNumber }}</p>
         <p
           class="text"
           *ngFor="let item of myBook.description"
           [innerHTML]="item"
         ></p>
+        <div class="publishInfo">
+          <p *ngIf="myBook.genre">Genre: {{ myBook.genre }}</p>
+          <p *ngIf="myBook.publisher">Publisher: {{ myBook.publisher }}</p>
+          <p *ngIf="myBook.isbn">ISBN: {{ myBook.isbn }}</p>
+        </div>
       </div>
     </mat-tab>
     <mat-tab *ngIf="myBook.firstChapter" label="First Chapter">
-      <div class="book-chapters">
+      <div id="book-chapter">
         <p
           class="text"
           *ngFor="let item of myBook.firstChapter"
@@ -32,7 +38,7 @@
     <div class="link-box">
       <p>Available at:</p>
       <p *ngFor="let item of myBook.stores">
-        <a mat-raised-button color="accent" [href]="item.link">
+        <a mat-raised-button color="accent" [href]="item.link" target="_blank">
           {{ item.name }}
         </a>
       </p>
@@ -40,7 +46,7 @@
     <div class="link-box">
       <p>Audio Edition:</p>
       <p *ngFor="let item of myBook.audio">
-        <a mat-raised-button color="accent" [href]="item.link">
+        <a mat-raised-button color="accent" [href]="item.link" target="_blank">
           {{ item.name }}
         </a>
       </p>
@@ -48,11 +54,10 @@
     <div class="link-box" *ngIf="myBook.foreign">
       <p>Overseas at:</p>
       <p *ngFor="let item of myBook.foreign">
-        <a mat-raised-button color="accent" [href]="item.link">
+        <a mat-raised-button color="accent" [href]="item.link" target="_blank">
           {{ item.name }}
         </a>
       </p>
     </div>
-    <div></div>
   </div>
 </div>

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { IBook } from '../../shared/book.model';
 import { ActivatedRoute, ParamMap } from '@angular/router';
-import { BookService } from 'src/app/shared/book.service';
+import { BookService } from '../../shared/book.service';
 
 @Component({
   selector: 'app-a-book',
@@ -27,6 +27,7 @@ export class ABookComponent implements OnInit {
       .subscribe(
         book => (this.myBook = book),
         error => (this.errorMessage = <any>error)
-      );
+    );
+
   }
 }

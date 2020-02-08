@@ -25,6 +25,7 @@ import { MenuComponent } from './menu/menu.component';
 import { BlogComponent } from './blog/blog.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
+import { BookFilterPipe } from './books/book-filter.pipe';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { HeaderComponent } from './header/header.component';
     MenuComponent,
     BlogComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
+    BookFilterPipe
   ],
   imports: [
     BrowserModule,

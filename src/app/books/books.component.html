@@ -1,9 +1,21 @@
-<div class="book-container">
-  <img
-    *ngFor="let book of books$"
-    class="book-img"
-    [src]="book.imagePath"
-    [alt]="book.name"
-    (click)="handleSelected(book.name)"
-  />
-</div>
+<mat-tab-group mat-align-tabs="center">
+  <mat-tab *ngFor="let curSeries of series" label="{{ curSeries }} Series">
+    <div id="book-container">
+      <div
+        class="book-holder"
+        *ngFor="let book of (books$ | bookFilter: curSeries)"
+      >
+        <img
+          class="book-img"
+          [src]="book.imagePath"
+          [alt]="book.name"
+          (click)="handleSelected(book.name)"
+        />
+        <p *ngIf="book.bookNumber">
+          Book {{ book.bookNumber }}:<br />
+          {{ book.name }}
+        </p>
+      </div>
+    </div>
+  </mat-tab>
+</mat-tab-group>

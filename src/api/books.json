@@ -2,6 +2,7 @@
   {
     "name": "Grave Witch",
     "series": "Alex Craft",
+    "bookNumber": "1",
     "imagePath": "assets/Images/GraveWitch.jpg",
     "description": [
       "Grave witch Alex Craft can speak to the dead, but that doesn’t mean she likes what they have to say . . . ",
@@ -26,7 +27,7 @@
       },
       {
         "name": "Book Depository",
-        "link": "http://www.bookdepository.com/book/9780451463807/Grave-Witch"
+        "link": "https://www.bookdepository.com/Grave-Witch-Kalayna-Price/9780451463807"
       },
       {
         "name": "iBooks",
@@ -216,7 +217,8 @@
   {
     "name": "Grave Dance",
     "series": "Alex Craft",
-    "imagePath": "assets/Images/GraveDancethumb.jpg",
+    "bookNumber": "2",
+    "imagePath": "assets/Images/GraveDance.jpg",
     "description": [
       "Whoever said dead men tell no tales obviously never met Alex Craft.",
       "After a month spent recovering from a vicious fight with a sorcerer, grave witch Alex Craft is ready to get back to solving murders by raising the dead. With her love life in turmoil thanks to the disappearance of Fae Investigation Bureau agent Falin Andrews and a shocking “L” word confession from Death himself, Alex is eager for the distractions of work. But her new case turns out to be a deadly challenge.",
@@ -406,6 +408,7 @@
   {
     "name": "Grave Memory",
     "series": "Alex Craft",
+    "bookNumber": "3",
     "imagePath": "assets/Images/GraveMemory.jpg",
     "description": [
       "When the dead need to talk, Alex Craft is always ready to listen…",
@@ -536,6 +539,7 @@
   {
     "name": "Grave Vision",
     "series": "Alex Craft",
+    "bookNumber": "4",
     "imagePath": "assets/Images/GraveVisions.jpg",
     "description": [
       "If a girl can't trust the dead, who can she trust?",
@@ -663,6 +667,7 @@
   {
     "name": "Grave Ransom",
     "series": "Alex Craft",
+    "bookNumber": "5",
     "imagePath": "assets/Images/GraveRansom.jpg",
     "description": [
       "Grave witch Alex Craft is no stranger to the dead talking. She raises shades, works with ghosts, and is dating Death himself. But the dead walking? That’s not supposed to happen. And yet reanimated corpses are committing crimes across Nekros City.",
@@ -779,9 +784,9 @@
   {
     "name": "Grave Destiny",
     "series": "Alex Craft",
+    "bookNumber": "6",
     "imagePath": "assets/Images/GraveDestiny.jpg",
     "description": [
-      "Available April 2, 2019",
       "The dead tell no tales, unless they have grave witch Alex Craft to speak for them. When a paranormal war threatens, Alex's unique abilities might be the only thing that can stop our world from being changed forever."
     ],
     "genre": "Urban Fantasy",
@@ -790,7 +795,7 @@
     "stores": [
       {
         "name": "Amazon",
-        "link": "https://www.amazon.com/gp/product/B07FJMNKFC/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i8"
+        "link": "https://amzn.to/2TmjSSo"
       },
       {
         "name": "Barnes and Noble",
@@ -803,6 +808,10 @@
       {
         "name": "Book Depository",
         "link": "https://www.bookdepository.com/Grave-Destiny-Kalayna-Price/9780451416599?ref=grid-view&qid=1549933483769&sr=1-1"
+      },
+      {
+        "name": "iBooks",
+        "link": "https://itunes.apple.com/us/book/grave-destiny/id1409215021?mt=11"
       }
     ],
     "audio": [
@@ -814,365 +823,426 @@
     "foreign": [
       {
         "name": "(UK) Amazon",
-        "link": "https://www.amazon.co.uk/Grave-Ransom-Craft-Kalayna-Price-x/dp/0451416589/ref=sr_1_1?ie=UTF8&qid=1495914718&sr=8-1&keywords=grave+ransom"
-      }
-    ]
-  },
-  {
-    "name": "Once Bitten",
-    "series": "Heaven",
-    "imagePath": "assets/Images/OnceBitten.jpg",
-    "description": [
-      "For the past five years, Kita Nekai has faded into the background of the human world, but when a rogue shifter begins littering the city of Haven with bodies, Kita's illegal status lands her on the suspect list. During a confrontation with hunters that she can't win, rescue arrives in the form of the mysterious Nathanial Deaton. Kita soon wishes it hadn't when his method of saving her leaves her undead. With only three nights to prove her innocence and a new liquid diet to worry about, Kita doesn't want to deal with her infuriating rescuer or the ghost from her past who is determined to drag her back home. But, she needs help if she's going to stand any chance of survival."
-    ],
-    "genre": "Urban Fantasy",
-    "isbn": "9780980245394 ",
-    "publisher": "Bell Bridge Books ",
-    "stores": [
-      {
-        "name": "Amazon",
-        "link": "http://www.amazon.com/gp/product/0980245397?ie=UTF8&tag=offisiteofkal-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0980245397"
+        "link": "https://www.amazon.co.uk/Grave-Destiny-Craft-Kalayna-Price-ebook/dp/B07D1GYQ5J/ref=asap_bc?ie=UTF8"
       },
       {
-        "name": "Barnes and Noble",
-        "link": "http://search.barnesandnoble.com/Once-Bitten/Kalayna-Price/e/9780980245394/?itm=1"
-      },
-      {
-        "name": "Books a Million",
-        "link": "http://www.booksamillion.com/product/9780980245394?id=4386810014983"
-      },
-      {
-        "name": "Book Depository",
-        "link": "http://www.bookdepository.com/book/9780980245394/Once-Bitten"
-      },
-      {
-        "name": "Fictionwise",
-        "link": "https://www.fictionwise.com/eBooks/eBook80226.htm?cache"
-      },
-      {
-        "name": "iBooks",
-        "link": "http://itunes.apple.com/us/book/once-bitten/id372289368?mt=11"
-      }
-    ],
-    "audio": [
-      {
-        "name": "Amazon",
-        "link": "http://www.amazon.com/Once-Bitten-Novel-Haven/dp/B005G0UZN6/ref=tmm_aud_title_0"
-      },
-      {
-        "name": "Audible",
-        "link": "http://www.audible.com/pd/ref=sr_1_4?asin=B005DF6XLC&qid=1324341093&sr=sr_1_4"
-      },
-      {
-        "name": "iTunes",
-        "link": "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAudiobook?id=452289250&s=143441"
-      }
-    ],
-    "foreign": [
-      {
-        "name": "(US) Amazon in German Language",
-        "link": "http://www.amazon.com/gp/product/B006LZGH7I/ref=as_li_ss_tl?ie=UTF8&tag=offisiteofkal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B006LZGH7I"
-      },
-      {
-        "name": "(Deutschland) Amazon in German Language",
-        "link": "http://www.amazon.de/exec/obidos/ASIN/3442378540/verlagsgruppe-21/"
+        "name": "UK iBooks",
+        "link": "https://itunes.apple.com/gb/book/grave-destiny/id1384030235?mt=11"
       }
     ],
     "firstChapter": [
-      "In the last ten minutes I\u2019d gone from miserable to totally screwed.\n",
-      "An hour ago I\u2019d thought a city named Haven would be good luck. Now I wondered who it was supposed to be a haven for\u2014polar bears and penguins? Next time I snuck aboard a train, I would remember to check whether it was headed north or south.  The snow-laden streets were the miserable bit; \u201cscrewed\u201d began two blocks back when I picked up the scent of something never meant to exist in the human world. Well, a something other than me.\n",
-      "A woman cut a beeline through my path, her attention on a curbing taxi. I stopped, the man behind me didn\u2019t.  He shouldered by with a grunt, his briefcase slamming into my thigh. I scowled after him but he didn\u2019t look back, let alone apologize.\n",
-      "I hated crowds. Any one of the bundled-up people trudging down the street could be hunting me. Of course, that same anonymity protected me. Shivering inside my over-large coat, I resisted the urge to glance over my shoulder as I matched pace with the pedestrian traffic. Remaining inconspicuous was key.\n",
-      "A \u201cDo Not Walk\u201d sign flashed, and the crowd stopped on the corner of Fifth and Harden. Horns blared and drivers shouted, but despite the green light, there wasn\u2019t much room for the cars to move. Some of the more impatient foot traffic wove through the vehicles, earning a one-fingered wave from a cabbie as another car slid into the space that opened in front of him. I debated crossing, but decided keeping a low profile among the suits on the corner was safer. Shifting my weight from foot to foot, I held my breath as a city bus covered us in a dirty cloud of exhaust.\n",
-      "A hand landed on my shoulder.\n",
-      "\u201cKita Nekai,\u201d a deep voice whispered. \u201cCome with me.\u201d\n",
-      "I froze, unable to turn for fear any movement would betray me into running. Breathe. I needed to breathe, an impossible task around the lump in my throat. My first gasp of air brought the hunter\u2019s scent to me, and the skin along my spine prickled in a response more primal than fear. Damn. Wolf. The blood rushing through my ears drowned out the street sounds so the crowd moved silently, in slow motion.\n",
-      "The fingers digging into my shoulder tightened, and my eyes darted to them. The manicured nails and white cuff peeking out under his brown coat sleeve marked the hunter as a suit. He\u2019d blend in nicely with this crowd.\n",
-      "\u201cLet go of me.\u201d I didn\u2019t bother whispering, and the woman beside me coughed as she glanced at us.\n",
-      "A half-turn put me eye level with the hunter\u2019s red-silk tie. I grabbed his wrist, a weak illusion that I was the one doing the restraining, and cleared my throat.\n",
-      "\u201cThief! Pickpocket! He stole my purse!\u201d\n",
-      "People turned, their eyes taking in the hunter\u2019s pristine pinstriped suit and my Salvation Army duster with its patched elbows and frayed hem. The suits closest to us shuffled further away, casting leery glances from the corners of their eyes. But they watched. They all watched, and the hunter couldn\u2019t just drag me off the street with so many human witnesses. I saw that realization burn across his amber eyes.\n",
-      "The light changed, and the crowd surged forward, filling the small gap that had opened when I created my scene. The hunter clung to my shoulder, but the push of bodies dislodged his hand, and I let myself be carried away. The businessmen in tailored suits and women in pumps towered over me. I never thought I\u2019d be grateful for being short, but with any luck, that would hide me from the hunter\u2019s view\u2014if only I could cover my scent that easily.\n",
-      "The crowd flowed down a set of cement stairs to the subway. The voices of hundreds of commuters bounced off the underground walls, a symphony of impatience accented by flickering florescent tubes. As they pushed into lines in front of the turnstiles, I realized the flaw in this plan: money, or really, my lack thereof.\n",
-      "Okay, no time to panic.\n",
-      "A weathered sign advertising public restrooms hung on my side of the turnstile, and I hurried through the door. The hunter wasn\u2019t likely polite enough to obey the little girls\u2019 room sign, but I was willing to bet the line of women waiting inside would give him pause.\n",
-      "I bypassed the line, ducking inside the first open stall and locking the thin door against the angry murmurs of protest. The cramped space boasted dingy walls covered in scrawled insults and just enough room to stand in front of a rust-rimmed toilet. What a lovely hiding place. The need to pace itched my heels, and I rocked back and forth on my toes, hugging my arms around my chest.\n",
-      "Someone pounded on my door.\n",
-      "\u201cStall\u2019s taken,\u201d I said.\n",
-      "\u201cHurry up,\u201d an agitated, but clearly female, voice said.\n",
-      "I ignored her. There were two other stalls she could use. \n",
-      "I rocked on my heels again. I needed a plan. The bladder-heavy humans aside, if I tried to out-wait the hunter the afterwork crowd would thin, and I needed human observers to protect me. The bathroom had only one door, and if the hunter saw me enter, all he had to do was watch for me to exit. Of course, if I could slip out without him recognizing me . . .\n",
-      "How much did he know about me? He knew my name and clan, but did he know anything else? It was a chance I had to take.\n",
-      "Balancing on the toilet seat, I tucked my knees to my chest so I wasn\u2019t visible under the stall walls. Around me, agitated voices complained about everything from the wait to the grey weather. I closed my eyes and tuned them out. I needed to center myself. Mentally I stroked the coiled energy inside me. It boiled. Spread. I anticipated the pain but still drew a ragged breath as the energy burst to the surface.\n",
-      "A sharp sting shot down my back, and the skin split open. My clothes vanished as they always had for my change. A whimper trembled in my throat, and I choked it back, but it escaped as my skin slipped off and reversed itself. My joints popped loudly as they reformed.\n",
-      "Someone banged on my door again. Could they hear the fleshy sound of my muscles and organs rearranging? I hoped they were just impatient. Then I passed into the seconds of the change in which I had no awareness of my surroundings.\n",
-      "My skin sealed around my body again, and the dingy stall snapped back into focus. My right foot slipped, and I fell up to my hips into the toilet bowl. Hissing, I scrambled over the seat and landed with a wet plop on the tiled floor.\n",
-      "Great, now I resembled a half-drowned rat.\n",
-      "Twitching my tail, I shook my back legs and tried to dislodge as much of the water as possible. I only accomplished further soaking the gritty tile. My back paw slipped, leaving grey streaks in its wake across the brown tile.\n",
-      "Disgusting.\n",
-      "I craned my neck, then hesitated. Did I really want to give my fur a quick bath? That was toilet water. It was better for it to be on my fur than my tongue, right? I struggled with that thought a moment, my instincts demanding the offensive substance be removed.\n",
-      " \u201cAnybody in there?\u201d Someone shook the stall door.\n",
-      "My attention snapped back to more important matters\u2014time was of the essence, a bath would have to wait. I was taking a risk by shapeshifting into my second form. If the hunter found me, I wouldn\u2019t be able to defend myself\u2014at least not in anyway that would matter, and no one would question him chasing down a cat. But, I had to get out of this subway station.\n",
-      "A child pointed as I crawled under the bathroom stall.\n",
-      "\u201cLook Mommy, a calico!\u201d\n",
-      "I sauntered closer to the girl, staying just out of reach\u2014children had the tendency to pull tails.\n",
-      "\u201cStay away from it,\u201d her mother said, jerking the child back. \u201cIt might be rabid.\u201d\n",
-      "My lips curled to hiss at the insult, but I curbed the desire. Hostility wouldn\u2019t get me anywhere.\n",
-      "Purring, I wound around the legs of the next lady in line. She pressed a tissue to her nose and backed away. Great.\n",
-      "Who was my most likely ticket out? My gaze landed on a woman washing her hands. She\u2019d been shopping, and several large department store bags stood staunchly at her feet. Slinking over, I dove into a fancy white bag and curled up beside a hat box and hoped she wouldn\u2019t notice the extra weight.\n",
-      "I repositioned myself to balance the load as she claimed her belongings and bustled out of the bathroom. The bag swung in her grip, propelling me into something hard. The turnstile was a nightmare. She pushed through it, and one of the packages squeezed all the air out of me. I thought the worst must be over as the bags swung free again, but the swaying made my stomach threaten to rebel.\n",
-      "No, I won\u2019t be sick. I refuse to.\n",
-      "I got sick all over her hatbox.\n",
-      "Shaking, I eased away from the box. The swish of the train doors opening initiated another barrage of attacks as people crowded into the car. The train lurched into motion, but the movement of the bag settled.\n",
-      "I peeked out and found myself at eye level with a startled brunette. She screamed, dumping the contents of her lap to the floor. I guess the cat was out of the bag\u2014well, not yet, but I needed to be. Dashing through a forest of legs, I hid under the seat of a man in mud-caked construction boots.\n",
-      "From the limited shelter, I sniffed the recycled, train-car air. Not a hint of the hunter\u2019s scent. \n",
-      "Thank the moon.\n",
-      "In the past five years I\u2019d caught a hunter\u2019s scent maybe half-a-dozen times. Most cities had at least one hunter stationed somewhere to watch for rogues and strays, but I\u2019d  never before had any reason to believe they were hunting me specifically. This wolf obviously was.\n",
-      "Closing my eyes, I mentally touched the tight coil inside me. It would be awhile before I could return to human form. Well, chances were good that the station where I ended up would be far from the hunter. Tucking my tail around my body, I resigned myself to a long ride."
+      "The first time I\u2019d knowingly woven planes of existence was under the light of the Blood Moon. That was six months ago, and I\u2019d been under the power of a madman at the time, the ability bursting from me in a magical hemorrhage. Since then, I\u2019d shoved reality around a bit and occasionally pushed or pulled things between planes, but I hadn\u2019t made many strides in learning to harness my planeweaving. Last month I\u2019d intentionally woven a net of reality for the first time in an effort to save my best friend. My hands now bore the evidence. Dozens of shiny pink scars crossed over my palms and marred my fingers. Thankfully I hadn\u2019t lost any function or feeling, but the scars acted as a daily reminder that I was fumbling my way around a magic I knew almost nothing about.\n",
+      "There had to be a better way.\n",
+      "I needed training. And the only two planeweavers anyone had heard about in generations\u2014besides me, of course\u2014resided in the high court. Which no one could tell me how to reach. I was surrounded by fae these days, even lived in my own Faerie castle, but information on the high court was limited.\n",
+      "My housemate, Caleb, had been born an independent fae and knew very little about the inner workings of the courts. The Winter Queen\u2019s knight, Falin, was far more connected, but he was young for a fae and had been raised outside Faerie to increase his tolerance for iron and technology. Ms. B, the brownie who\u2019d appointed herself office manager of Tongues for the Dead, had told me she didn\u2019t pay much attention to the \u201covergrown\u201d court fae when I\u2019d asked her. Not even the rather ancient frost fae ghost who haunted my castle could tell me more than rumors. Unfortunately, that left the list of fae I could ask about the high court depressingly short.\n",
+      "I could request an audience with the Winter Queen\u2014she had to know. But the price she would extract might be worse than my fumbling attempt to learn on my own. The other fae I could ask would be easier to approach, but he was a mystery wrapped in a contradiction. He was a fae in hiding who didn\u2019t belong to the local court\u2014which shouldn\u2019t have been possible\u2014as well as a prominent member in mortal government, in a party called the Humans First Party, which was basically a hate group against fae and witches. Oh yeah, and he was my father.\n",
+      "My name is Alex Craft, and as one might guess, I have a complicated relationship with my family. I\u2019m a private investigator for Tongues for the Dead, a firm I run with my best friend and fellow grave witch, Rianna McBride. We specialize in raising shades of the dead so that they can be questioned, but we\u2019ll take about any case from missing persons to discerning curses on knickknacks. Unfortunately, because of a recent PR nightmare in which I was accused of magical mass murder, business was so dead we could barely justify keeping the lights on. It gave me a lot of time to study the scars and dwell on how very badly I needed a teacher. Which was why I was now staring at my father\u2019s phone number. I didn\u2019t want to call him, but where else could I turn?\n",
+      "I hit the dial button. He picked up on the third ring.\n",
+      "\u201cMy errant daughter. To what emergency do I owe this honor?\u201d\n",
+      "Yeah, maybe I didn\u2019t call my father often. But I didn\u2019t exactly trust him. Plus, he\u2019d kind of hidden the fact that he\u2014and I\u2014were fae, and oh yeah, he more or less excommunicated me when my grave magic appeared and couldn\u2019t be hidden.\n",
+      "\u201cNo emergency. I just need some answers. How would I contact someone in the high court?\u201d\n",
+      "The line was quiet so long that I pulled the phone away from my ear and checked the screen to make sure the call hadn\u2019t been dropped.\n",
+      "\u201cThat\u2019s not the kind of information I can just give away,\u201d he finally said.\n",
+      "Great. \u201cBut you do know a way?\u201d\n",
+      "\u201cI do.\u201d\n",
+      "\u201cSo what will it cost me? A favor? A quest?\u201d If he said my firstborn, I was never speaking to him again.\n",
+      "Again the drawn-out silence. Finally he said, \u201cI have a request of you. There is an . . . issue that I believe you will be asked to investigate very soon. Accept. Do what you can. Please.\u201d The last word sounded like he\u2019d had to painfully pluck it from his mouth.\n",
+      "I blinked in surprise, realizing what he was offering. Apparently it wasn\u2019t that he wouldn\u2019t tell me how to contact the high court, it was that he couldn\u2019t. But he\u2019d just offered me a way to put him in my debt and force him to tell me.\n",
+      "\u201cWhat will this case involve? And who should I expect to bring it to me?\u201d\n",
+      "\u201cYou won\u2019t be able to miss it.\u201d\n",
+      "\u201cWhy is that not reassuring,\u201d I said, but I was speaking to empty air. He\u2019d hung up.\n",
+      "The bell on the door chimed while I was still staring at my phone. I jumped to my feet. This can\u2019t be the case already. But we hadn\u2019t had a client in weeks, and I couldn\u2019t feel Rianna\u2019s magic\u2014or any magic\u2014so it wasn\u2019t her. I rushed around my desk, shoving the phone in my back pocket as I hurried to my office door. I pulled on my gloves in quick, practiced motions\u2014the scars drew too much attention. Then I forced myself to slow down and smile before I stepped into the lobby. I didn\u2019t want to look too desperate.\n",
+      "Normally\u2014or at least the more recent normal\u2014Ms. B would have been in the front office to greet potential clients, but while she showed up exactly on time each morning and checked for messages and appointments, she\u2019d started leaving for the bulk of each day. Not that I faulted her. Sitting around an empty office was boring at best, and downright depressing in truth. Rianna wasn\u2019t in the office today either, as we\u2019d taken to alternating who got the discouraging task of minding the office each day, so that left only me. Which, if this was the case my father wanted me to work, could be a good situation. Or it could be a very dangerous one.\n",
+      "A man stood just inside the door, his gaze scanning every inch of the room. There was a stiffness to his posture, an attentiveness to the way he efficiently searched the space, that spoke to the fact that he wasn\u2019t admiring the furnishings but was looking for threats. I forced my smile to hold and kept my own posture nonthreatening. After all, people were often jumpy when dealing with grave witches. Then the man\u2019s attention focused on me, and my smile froze, turning brittle. The greeting that I\u2019d been about to utter caught in my throat, tangled with a knot of fear that lodged at my sternum before melting down into my stomach.\n",
+      "It wasn\u2019t that the man looked particularly threatening. In fact, if I was honest, he was rather attractive. Tall, with dark hair pulled back from a well-angled face. The dark suit he wore looked ridiculously expensive and expertly tailored over his obviously muscled body. He carried no overt weapons nor any trace of magic, though one hand was suspiciously close to his waist as if a twitch away from an unseen sword. He smiled as our gazes met, striding across the room without hesitation now that he\u2019d determined there were no hidden threats.\n",
+      "Or perhaps he\u2019d been searching for potential witnesses.\n",
+      "\u201cPrince Dugan,\u201d I said, forcing myself to stand my ground and not flee back into my office. My fingers itched to draw the enchanted dagger hidden in my boot, but I didn\u2019t. The prince of the shadow court wasn\u2019t my enemy\u2014and I didn\u2019t want to make him such\u2014but he wasn\u2019t exactly a friend either. He definitely had to be the case my father wanted me to work, though I had no idea how he\u2019d gotten here so fast. I\u2019d literally just gotten off the phone when the bell on the had door chimed.\n",
+      "\u201cMy lady,\u201d Dugan said, inclining his head ever so slightly toward me. His ground-eating stride took him to a spot less than a yard in front of me before he stopped. He smiled again, but there was little warmth to the expression. His lips moved, but his eyes were weary, guarded. Not hostile, though, and he didn\u2019t try to close the last bit of space he\u2019d left between us.\n",
+      "The professional smile I\u2019d been clinging to shattered, giving way to a suspicious frown as I studied him. The afternoon sunlight streaming through the front window seemed to shy away from him, or maybe it was that the shadows in the corners of the room reached out toward him. I wasn\u2019t sure if that was a passive effect of being a prince of the shadow court, or if he was using glamour to draw in the shadows like a cloak, even in the light, but it was an eerie effect.\n",
+      "\u201cMy father mentioned you\u2019d be coming, but he didn\u2019t tell me anything about the case you\u2019re bringing.\u201d\n",
+      "The prince cocked his head to the side, a look of genuine bewilderment crossing his features. \u201cYour father?\u201d\n",
+      "My frown deepened. \u201cHe didn\u2019t send you?\u201d But I could already read the answer before he shook his head.\n",
+      "\u201cI\u2019ve not seen nor spoken to him in months.\u201d\n",
+      "Right. So then was this not the case he\u2019d mentioned? And if not, what was Dugan doing here? Not just in my lobby, but in Nekros City. \u201cWhat can I do for you?\u201d\n",
+      "\u201cThat is your . . . office?\u201d He said the last word as if it were a foreign concept to him, but he nodded toward the door I\u2019d emerged from when I\u2019d heard the bell chime. \u201cYou usually take clients there?\u201d\n",
+      "I nodded, stepping aside as I gestured to the door. He didn\u2019t hesitate, but swept past me, the misplaced shadows following him into my small office. I stared after him for a moment, wondering again what the hell he was doing here. Nekros City was winter court territory, and I was fairly certain the Winter Queen would take none too kindly to the presence of any shadow fae in her land, let alone the prince of their court.\n",
+      "As if summoned by my thoughts, the front door burst open and the queen\u2019s knight, Falin Andrews, stormed into the lobby. His movements were smooth and lethally efficient as his icy blue eyes made a quick sweep of the room. When his gaze fixed on me, relief softened the hard planes of his handsome face as he assessed that I was safe and seemingly alone.\n",
+      "\u201cCome on, we have to go,\u201d he said, holding out a gloved hand toward me. \u201cThe prince of the shadow court has entered Nekros.\u201d\n",
+      "Aside from being the Winter Queen\u2019s knight\u2014her bloody hands she sent to do any dirty work she might have\u2014Falin was also the head of the local Fae Investigation Bureau, my one-time-only lover, a housemate of sorts, and a friend. It was impossible to miss the fact that he\u2019d been worried when he\u2019d entered. Which meant he really wasn\u2019t going to like what I was about to say.\n",
+      "\u201cI know. He\u2019s here.\u201d\n",
+      "Right on cue, Dugan stepped out of my office. \n"
     ]
   },
   {
-    "name": "Twice Dead",
-    "series": "Heaven",
-    "imagePath": "assets/Images/TwiceDead.jpg",
+    "name": "Grave War",
+    "series": "Alex Craft",
+    "bookNumber": "7",
+    "imagePath": "assets/Images/GraveWar.jpg",
     "description": [
-      "Kita is adjusting to her new liquid diet--an adjustment she rather resents. Not that everything was chocolate and sunshine before (though both were possible before the sexy but infuriating Nathanial sank his fangs in her business). Kita's ability to shape shift into a kitten when her peers shifted into lions and tigers complicated her life, to say the least, but getting stuck in one form--that of a human shaped tick, a.k.a. a vampire--sucks, literally. Her adjustment period is violently interrupted when she discovers a headless corpse during a party for a visiting vampire council. But, the headless dancer won't be the only corpse she encounters.",
-      "Kita's involvement draws the attention of the Collector, an ancient vampire with an inclination to acquire two things: power and oddities. As a pureblood shifter turned vampire, Kita ranks high on the collectability list--not a safe place for anyone who values her freedom, and Kita is not the only one on the list. But with the body count rising, there is more at stake than freedom. A killer is slithering through the underbelly of Haven's vampire community, and with the supernaturals dealing in unnamed favors, it's a bad time to be a kitten who can't slip her skin."
+      "More info coming soon!"
     ],
     "genre": "Urban Fantasy",
-    "isbn": "9780984325672",
-    "publisher": "Bell Bridge Books ",
-    "stores": [
-      {
-        "name": "Amazon",
-        "link": "http://www.amazon.com/gp/product/0984325670?ie=UTF8&tag=offisiteofkal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0984325670"
-      },
-      {
-        "name": "Barnes and Noble",
-        "link": "http://search.barnesandnoble.com/Once-Bitten/Kalayna-Price/e/9780980245394/?itm=1"
-      },
-      {
-        "name": "Books a Million",
-        "link": "http://www.booksamillion.com/product/9780980245394?id=4386810014983"
-      },
-      {
-        "name": "Book Depository",
-        "link": "http://www.bookdepository.com/book/9780984325672/Twice-Dead"
-      },
-      {
-        "name": "Fictionwise",
-        "link": "https://www.fictionwise.com/eBooks/eBook80226.htm?cache"
-      },
-      {
-        "name": "iBooks",
-        "link": "http://itunes.apple.com/us/book/twice-dead/id372292887?mt=11"
-      }
-    ],
-    "audio": [
-      {
-        "name": "Amazon",
-        "link": "http://www.amazon.com/Twice-Dead-Novel-Haven/dp/B005G0V60W/ref=tmm_aud_title_0"
-      },
-      {
-        "name": "Audible",
-        "link": "http://www.audible.com/pd/ref=sr_1_2?asin=B005DEYYXW&qid=1324341134&sr=sr_1_2"
-      },
-      {
-        "name": "iTunes",
-        "link": "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAudiobook?id=452289781&s=143441"
-      }
-    ],
-    "firstChapter": [
-      "I propped my elbows on the balcony rail that hung over the Death\u2019s Angel dance floor. Below me, industrial music pounded against scantily-clad bodies contorting to the beat. A man in a wolf mask and tight pleather pants ground against a girl wearing a tattered red cloak and strategically placed electrical tape. A zombie in more chains than clothes shambled past the couple, headed for a coven of dominatrix witches. Fictional characters and sexualized movie monsters milled everywhere. What most of the clubbers didn\u2019t realize was that among the costumed masses were real monsters\u2014and I was one of them.\n",
-      "I glanced at the man beside me. Well, not a man exactly, more like vampire. Nathanial leaned against the wooden balcony rail, his back to the club and dancers. A white opera mask covered half his face, but unlike the famous mask of the fictional phantom, the thin porcelain didn\u2019t cover deformity or ugliness\u2014far from it. Nathanial\u2019s features were as sharp and perfect as if they\u2019d been carved by an artist. They were also currently set in an expression of annoyed arrogance that was as fake as the mask. He\u2019d held that exact expression since we arrived at the club an hour ago.\n",
-      "\u201cWe showed up. We\u2019ve been seen. Can we go now?\u201d I asked, swirling the contents of my untouched Bloody Mary.\n",
-      "\u201cKita.\u201d\n",
-      "My name. Just my name, without any inflection. I took his meaning as \u2018No\u2019 or maybe that I already knew the answer. And I did. Tatius, the big bad vampire king of Haven, had summoned us to his little party for a visiting master vamp. So here we were. I balanced the acidic smelling drink on the rail. And here we\u2019ll stay until we\u2019re dismissed.\n",
-      "So far, my introduction into eternity as a vampire sucked\u2014and not just blood. Sighing, I shoved the untouched alcohol aside. The bartender, dressed as, shock of all shocks, a vampire\u2014complete with genuine fangs\u2014retrieved the precariously balanced glass before moving on to a customer whose drinking habits required a lower iron content.\n",
-      "Without the glass, I had nothing to fidget with, and my attention returned to the writhing bodies on the dance floor. So many people. So many hearts racing and crashing below thin skin. So many heartbeats drowning out the blaring music. Pressure built in the roof of my mouth, turning to pain as my fangs descended.\n",
-      "A warm hand landed on my shoulder, and I tore my gaze from the dancers. Nathanial watched me, his fingers sliding from my shoulder, down my arm, to my hand. My knuckles were white where I gripped the balcony rail.\n",
-      "I pried my fingers from the wood. Nathanial\u2019s crystal gray gaze flicked to the movement, then back to my mouth.\n",
-      "\u201cIt\u2019s nothing,\u201d I whispered, trying to keep my lips pressed over my fangs as I spoke.\n",
-      "Not that it mattered.\n",
-      "\u201cPerhaps we should mingle.\u201d His expression didn\u2019t change. Not a feature twitched, despite the fact I knew he had no interest in talking to anyone in the balcony crowd.\n",
-      "The balcony was VIP only. Or really, VIV\u2014Very Important Vampire. Some humans were present, as snacks. Thankfully, I hadn\u2019t noticed any public bloodletting. Yet. But, as vamps didn\u2019t trigger my prey instinct, mingling with them was less likely to result in my accidentally eating someone. On the other hand, it also meant I had to talk to the other vamps\u2014which was way more dangerous, in my opinion.\n",
-      "It wasn\u2019t an option I was eager to embrace. \u201cI just need some air.\u201d\n",
-      "The edge of Nathanial\u2019s lips tugged downward. A small motion, barely noticeable. It was his first slip all night\u2014and it wasn\u2019t approval. We disagreed on my eating habits, or more accurately, the fact I was subsisting on only animal blood. He was of the opinion that I needed human blood. I was of the opinion that it was his fault I was on a liquid diet in the first place, and he better put up with my sustenance of choice. I sighed, blowing a lock of my tri-colored hair out of my face and intentionally misinterpreting his look.\n",
-      "\u201cI know, I know. Vampire. I don\u2019t need to breathe,\u201d I whispered in an exaggerated huff. \u201cBut I can\u2019t change twenty-four years of expressions just because I recently woke up slightly less than alive.\u201d\n",
-      "Nathanial shook his head, but a smile touched the edge of his mouth. \u201cWalk with me.\u201d\n",
-      "His fingers slid through mine and tugged me from the balcony rail. Reluctantly, I followed him into the crowd of vampires.\n",
-      "The costumes on this level were more diverse than those on the dance floor below. True masquerade outfits, elegant dresses, velvet top coats, and jewel-encrusted masks made the balcony crowd colorful. But for every Victorian dress or harlequin was a vampire wearing only leather straps across strategic body parts. I couldn\u2019t recognize the native Haven vamps by sight, but considering my previous experience with the local vamps, and the fact Death\u2019s Angel was operated by them, I suspected the visitors weren\u2019t the ones in bondage gear.\n",
-      "Nathanial conformed to neither group. His porcelain mask was plain, unadorned, and his black hair hung in a long ponytail trailing down the center of his back, blending with the lush fabric of his opera coat. His costume defined elegance in simple stark black and white.\n",
-      "In contrast, my costume was garishly bright. Black and orange tiger stripes decorated my skin-tight unitard. Faux fur rimmed my white gloves and fuzzy white boots. A striped mask completed the outfit. My mess of calico locks\u2014my hair\u2019s natural color and a reminder of what I had been until a couple weeks ago\u2014almost matched the costume. Almost. Nathanial had asked me if I could be anything, what I would be.\n",
-      "I glared at the stripes. Tiger stripes. Like my father\u2019s. Me and my big mouth.\n",
-      "\u201cHermit, it has been a long time,\u201d a male voice said. I cringed. Only vamps called Nathanial \u2018Hermit.\u2019 Nathanial turned toward the voice, moving me with him, and Ilooked up, and then up some more. The speaker towered over us, and while I was on the short side, Nathanial wasn\u2019t. The man wore a fitted crushed velvet maroon frock coat I could have used as a dress. Falls of lace escaped from his cuffs and collar, and a gold mask set with rubies obscured wide features. He was so massive, it took me a moment to notice the small woman at his side. She was his exact opposite. Where he was all blunt edges she was sharp, petite. She was my height, but beside him she looked like a fragile doll in her frilled dress and silver mask.\n",
-      "\u201cThree hundred years, I believe, Traveler,\u201d Nathanial said, his voice polite but disinterested.\n",
-      "\u201cAt least.\u201d The giant\u2019s gaze moved from Nathanial to me and then back. \u201cA lot has changed in that time.\u201d\n",
-      "I groaned silently\u2014or perhaps not all that silently, as all eyes moved to me. Oops. Still, I didn\u2019t want to listen as they hashed out three hundred years of vampire history as small talk. I glanced around. There was an empty spot on a couch in the far corner of the balcony. \u201cI think I\u2019ll just . . . \u201d I pointed at the couch. Nathanial\u2019s eyes frowned at me. Not his mouth, or his expression,\n",
-      "I\u2019d just come to know those eyes, to know him, well enough over the last few weeks to see the fact he didn\u2019t think it was a good idea.\n",
-      "\u201cIt\u2019s just right there,\u201d I said, backing away as I spoke.\n",
-      "He didn\u2019t stop me, so I turned tail, all but running for the sanctuary of the couch.\n",
-      "Most of the seating on the balcony was filled\u2014vamps tended to sprawl, but the couch I claimed had only one other person sitting rigidly at the other end. She wore a simple, black\u2013and-white, harlequin jumper with an elaborate, full-faced mask, a large feathered hat, and brown curls that looked so synthetic they had to be a wig.\n",
-      "She didn\u2019t move as I collapsed onto the far cushion, and I let out a relieved breath. At least I won\u2019t be expected to socialize. I refilled my lungs\u2014the habits of the living die hard\u2014and that was a mistake.\n",
-      "The cloying scent of blood rolled over my tongue, caught in the back of my throat, filled my senses. The scent was cold, bitter, not all that appetizing, but it was very close and thus, tempting. Oh, so close. My fangs burst free in a flash of hunger, and I slid across the cushion without consciously deciding to move.\n",
-      "The woman didn\u2019t react or look up as I sidled up next to her. There was something off about the scent of her blood. But that didn\u2019t matter. Not right now. All that mattered was the smell of it.\n",
-      "My fingers brushed her shoulder. The mask tumbled forward. The hat and wig followed, the wig's synthetic curls flying.\n",
-      "I jumped to my feet. Above the frill of her collar was a stubby, raw neck. No head.\n",
-      "A fake mannequin head plunked against the floor. Rolled. It stopped finally, settling three feet from the couch. I backed away, aware of the heavy silence suddenly coalescing on the balcony. Industrial music still pounded below me, but the vampires had gone deadly still.\n",
-      "A large hand closed around my arm. The grip tight. Painful.\n",
-      "\u201cWhat did you do?\u201d A rough voice whispered the question behind my ear.\n",
-      "\u201cI, uh . . . \u201d I gulped and made a wild, floundering motion from the head to the body. \u201cHer head just fell off?\u201d\n",
-      "A woman in a gold-trimmed gown stepped forward and knelt to study the fake head. Un-seeing glass eyes stared out of it. As if all tied to one string, every vampire in the room shifted their gaze from the head, to me, and then to the body, which was still perched primly on the couch. Her hands were in her lap, one gripping a glass balanced on her thigh, but she was definitely not a mannequin. The smell of blood aside, I could see the white of her exposed spine among the pinker flesh of her throat.\n",
-      "\u201cWhat is the meaning of this?\u201d demanded the woman in the gold trimmed gown. \u201cWhere is her head?\u201d\n",
-      "I thought, at first, that the woman was asking me. As if I had any idea. Then I realized her glare went over my shoulder, to the man still gripping my arm. I glanced back, but didn\u2019t recognize the vamp holding me. Based on the leather pants loaded with silver studded straps, and the electric blue hair that fell to his chin in jagged tapered tips, I guessed he was one of the local vamps. Then I noticed his eyes: green and old, with a gaze that landed like a physical weight on my skin.\n",
-      "Tatius.\n",
-      "I swallowed hard. Oh crap, a decapitated body and the attention of the king of Haven. Did I know how to break up a party or what?\n",
-      "Chapter Two\n",
-      "\u201cWhat happened?\u201d Tatius demanded, his glare boring into me.\n",
-      "I looked around. Nathanial was several feet away, standing at the edge of the semi-circle that had opened around me. His posture was aloof, uninterested, but he watched me without blinking. He tapped two long fingers on his full bottom lip, as if idly contemplating an obscure thought, but again, his gaze didn\u2019t waver. Something about my mouth? I pressed my lips together.\n",
-      "Crap. My fangs were still out.\n",
-      "I willed the damn things to retract, and Tatius\u2019s grip on my arm tightened. He shook me.\n",
-      "\u201cI said, what happened?\u201d \u201cI touched her shoulder, that was all.\u201d \u201cShould we guess why?\u201d A chime-like voice spoke from\n",
-      "somewhere in the mass of vampires. I gritted my teeth and resisted the urge to press my hand over my\n",
-      "mouth. My fangs weren\u2019t visible anymore, I knew that, but it was no great mystery to anyone on the balcony what had been motivating me. \u201cShe smelled like blood,\u201d I muttered under my breath.\n",
-      "I should have known better. Vampire hearing was exquisite.\n",
-      "The woman in the gold-trimmed dress lifted an arched eyebrow dotted with rhinestones. \u201cIn this crowd, I should think more than a reckless child\u201d\u2014she dismissed me with the insult\u2014\u201cwould have noticed blood. Unless there was some trick involved.\u201d She stared at the posed figure again. There was no blood on the collar of the outfit\u2014 there wasn\u2019t even blood around the cleanly severed stub of neck. The woman turned back to Tatius. \u201cWhat have you to say of this, Puppet Master?\u201d\n",
-      "\u201cMy apologies, Collector. I assure you, I intend to get to the bottom of it.\u201d Tatius\u2019s gruff voice crackled down my back.\n",
-      "Collector? Great. The Collector was the big bad star of this party. The guest of honor. I so needed to get out of here. In my old life I\u2019d learned better than to pull an alpha cat\u2019s tail\u2014though knowing better didn\u2019t mean it didn\u2019t happen anyway, sometimes. But I totally hadn\u2019t meant to land in the center of this attention. \u201cNuri,\u201d Tatius said, turning toward the crowd. The mass of vampires who\u2014now that the initial shock of the body\u2019s discovery had worn off\u2014were murmuring among themselves, parted to allow a pre- teen girl through.\n",
-      "As the girl, Nuri, approached, Tatius released my arm. Thank the moon. I moved to step aside, but his hand slid around the back of my neck. The touch wasn\u2019t restraining, but it was overly personal, his fingers coming to a rest in the hollow between my collarbone and throat. Oh hell no. The last time I met Tatius, he\u2019d considered killing me. Then he\u2019d forced his blood in me. I did not want anything else to do with the vamp.\n",
-      "I tried to shrug him away, but his fingers flexed in response, his nails biting against my skin. Okay, so apparently I was going to have to make a scene\u2014another scene\u2014or stay put. I erred on the side of caution, for once.\n",
-      "Nuri, dressed as an ancient Egyptian queen with a large snake peeking out beneath her dark dreadlocks, knelt beside the harlequin. As I watched her lift the dead woman\u2019s hand, I realized where I\u2019d seen Nuri before. She\u2019d sat at the council table the first time I was brought before the vampires, which meant she must be a lot older than she looked.\n",
-      "After a moment of poking at the body, she stood and turned to Tatius. \u201cRigor mortis has only begun to set, so I\u2019d guess she\u2019s been dead no more than four hours. There is no tearing of the flesh, so she was decapitated by a sharp instrument. The lack of blood suggests she was drained before death. I\u2019ll report more when I find it.\u201d The words were too old, too serious for her thin, girlish voice. Not that anyone else appeared to notice. She stepped aside and nodded to two pleather- clad vampires, who rushed forward to lift the body and carry it toward a private elevator in the corner. The fake head still lay on the floor, ignored.\n",
-      "The Collector stepped forward, over the forgotten head, until the train of her dress engulfed it. \u201cYou have your Truthseeker looking into things, and while I\u2019m sure she will be very thorough\u201d\u2014the way she said it made it clear she was not certain of any such thing\u2014\u201cI offer the assistance of one of my vampires.\u201d Without waiting for an answer, she lifted her hand. \u201cElizabeth, attend us.\u201d\n",
-      "Tatius\u2019s fingers flexed against my skin. Agitation? Anger? But he didn\u2019t say anything as the small, doll-like woman I\u2019d seen earlier in the night on the giant\u2019s arm stepped forward. \u201cI will be happy to assist,\u201d the woman said, curtsying to the\n",
-      "Collector. Then she turned and her icy eyes caught on mine. \u201cAt least we know the harlequin wasn\u2019t this fledgling\u2019s snack.\u201d\n",
-      "Tatius\u2019s fingers flexed again, harder this time. \u201cHermit, find her someone to eat.\u201d He shoved me toward Nathanial, and I gladly retreated from the center of attention.\n",
-      "Nathanial\u2019s arm slipped around my waist as I reached him, and he wove us through the crowd, away from the couches. We passed the two vampires waiting for the elevator with the body, and I breathed deeply, rolling the decapitated woman\u2019s scent through my senses. The sweet tang of blood reached for me, made the roof of my mouth burn, but I focused on committing her scent to memory.\n",
-      "Nathanial didn\u2019t fail to notice my signs of hunger. \u201cI am taking you home.\u201d\n",
-      "Home. It was a nice thought. I\u2019d had enough with vampires. Enough of their double-tongued political games. And enough headless bodies. But . . .\n",
-      "I glanced back at the vamps loading the corpse into the elevator, but it wasn\u2019t her harlequin costume I saw. My mind replaced her with the image of another body, one bloated from several days of death. A human body that had been, in part, my fault, because I\u2019d accidentally created the shifter who\u2019d killed her. I\u2019d tracked the murderer, stopped him, but the weight of his victims wore on me.\n",
-      "Nathanial studied me with eyes that saw too much. Eyes that stripped away my secrets. He shook his head, a small smile tipping the edge of his lips. It wasn\u2019t a happy smile. I looked away, and he drew me closer to the side of his body without breaking stride toward the stairs.\n",
-      "\u201cI will take you to the hospital,\u201d he said. \u201cYou can visit them.\u201d\n",
-      "Two weeks ago, I would have avoided hospitals at all costs. But then, two weeks ago, I\u2019d still had to breathe to live, I\u2019d spent most of my time as a six-pound calico kitten, and I hadn\u2019t yet known I\u2019d created a rogue who\u2019d gone on a killing spree. A rogue whose victim count totaled fourteen women.\n",
-      "The only two survivors were currently in medically-induced comas at Saint Mary\u2019s Hospital. Two weeks ago it would have been easier to walk away from a headless body. To trust that someone else would deal with it. A lot can change in two weeks.\n",
-      "I glanced back at the gathered vampires. All the vampires in Haven were on this balcony. The harlequin had been drained of blood. If the killer was a vampire, he was here. It has nothing to do with me. This murder isn\u2019t my responsibility. It isn\u2019t.\n",
-      "I let Nathanial lead me out of the club. But damn, guilt was a bitch.\n",
-      "***\n",
-      "Two hours later, I walked into Nathanial\u2019s kitchen. Without Nathanial. After all, we hadn\u2019t been formally dismissed by Tatius, so he had to return to Death\u2019s Angel after our visit to the hospital. I was still flushed from the flight home as I followed the sounds of the television into the front den. Even after dozens of airborne trips with Nathanial, I still couldn\u2019t get enough of the wind in my face and watching the world slip by below us. I could only hope the ability to fly would be a vampire trick I\u2019d learn one day.\n",
-      "I pushed open the den door. \u201cYou up for a hunt?\u201d\n",
-      "Bobby, a shifter from my home world of Firth, and once the big love of my life, was currently a couch-crasher in Nathanial\u2019s cabin and would continue to be until the gate to Firth reopened and he could return to his pregnant mate. He looked up as I entered. Our relationship was complicated, and awkward, but we were working it out. Mostly. When he wasn\u2019t threatening to drag me back to Firth with him, that is.\n",
-      "He hit a button on the remote, muting the brightly animated cartoon on the screen. Then he lifted his feet from the arm of the couch. I slid into the free spot.\n",
-      "\u201cSo, hunting?\u201d\n",
-      "\u201cStill hungry? We caught dinner before you left.\u201d He frowned, his brow creasing, and he rolled to a sitting position. \u201cDid something happen at that vamp club?\u201d\n",
-      "\u201cIt, no, well . . . \u201d I grabbed one of the hunter green throw pillows and dragged it into my lap. \u201cI\u2019m just hungry.\u201d\n",
-      "Bobby slid closer, moving into my personal space. \u201cYou\u2019re starting to smell like a frightened rabbit.\u201d\n",
-      "Okay, this was what I meant by awkward. I jumped to my feet. \u201cI\u2019ll just go by myself.\u201d \u201cKitten . . . \u201d \u201cForget I asked.\u201d I headed for the door. Bobby was right. We\u2019d already hunted tonight. Even with the heightened metabolism of a shapeshifter, Bobby was only one person and his other form was a bobcat\u2014he didn\u2019t need two rabbits in one night. Hell, in Firth, he wouldn\u2019t have eaten more than three or four rabbits a week. It was wasteful to kill more tonight.\n",
-      "He caught up with me at the front door and pulled his sweater off despite the blanket of snow spreading out around the cabin. He had to shift if he intended to hunt.\n",
-      "I took the front steps two at a time. \u201cI said to forget it.\u201d\n",
-      "He jutted his chin and continued to disrobe. \u201cWe\u2019ll freeze the extra meat.\u201d His fingers moved to the button of his jeans. \u201cYou hunting like that?\u201d\n",
-      "I glanced down. I was still wearing the ridiculous tiger suit, but unlike Bobby, my clothes didn\u2019t matter. He\u2019d lose a lot of mass once he shifted, and a thirty-pound bobcat couldn\u2019t exactly wear a two- hundred-pound man\u2019s jeans and sweater. Technically, whenever I shifted, my clothing disappeared. That was my gift. Or it had been, before I became a vampire. Now I was stuck in one form. My claws had extended, once, when I\u2019d been in a fight for my life against the rogues. But since then, my cat had remained locked in the cold coil inside me. Dead.\n",
-      "I kicked off my party boots. \u201cLet\u2019s hunt.\u201d\n",
-      "***\n",
-      "Snow crunched under my bare toes, and my prey lifted its head, its long ears twitching. I went still, not even daring to breathe. Beside me, Bobby hesitated, his compact bobcat form disappearing behind a frozen shrub.\n",
-      "The snow hare\u2019s ears twitched again, his whiskers trembling as his nose worked. Muscles bunched as he prepared to leap, and I sprang into motion.\n",
-      "Brittle, ice-encased twigs shattered as I broke through the frozen brush. My dash was noisy, but that didn\u2019t matter now. Not at the speed I was moving. I pounced, snatching the hare in mid-bound.\n",
-      "It screamed, a piercing distress call. I grabbed at its pumping back legs, but one slipped away. Pain flared across my collarbone as the hare\u2019s back claws ripped through the thin material of my costume, tearing into the skin below. Not that the pain stopped me. I caught the leg with one hand, gripping the hare\u2019s scruff with the other, and effectively immobilized it. Fur brushed my lips, then my fangs sank into the back of its neck. Liquid warmth filled my mouth, slid down my throat. Heat, life, filled my torso, spreading contentment toward my limbs.\n",
-      "Then the hare\u2019s mind opened to me.\n",
-      "Panic raked across my senses, stabbing deep. Run, the hare\u2019s instincts urged me. Every cell in my body knew I\u2019d die if I couldn\u2019t run. My heart jumped to my throat, making swallowing difficult.\n",
-      "A vampire bite caused euphoria in humans, but animals recognized death when it caught them. Still, even as the depths of the hare\u2019s fear enfolded me, I had other instincts\u2014darker, more demanding needs which kept my mouth working, my throat convulsing.\n",
-      "The small hare drew one last breath. Then the connection between our minds snapped. The sudden absence of its terrified presence left a gaping hole in my mind\u2014an emptiness which didn\u2019t fill as I regained awareness of myself and of the limp body in my fingers.\n",
-      "My hands trembled as I set the small corpse in front of Bobby. I swallowed hard. My tongue tasted like I\u2019d been sucking on an old piece of copper, and I shivered despite the new warmth rushing through my limbs. This is natural. The way it should be. I\u2019d been born a predator. A cat. I\u2019d hunted with my clan all my life. This hare was prey, serving its function in the circle of life.\n",
-      "Bobby butted my knee with his tawny, bobcat head, his imploring, almond-shaped eyes watching me. My gaze refocused, and I realized I was still crouched over the dead hare, my thumb sliding along its cooling paw. I pulled my hand away and lunged to my feet.\n",
-      "Bobby stared at me a heartbeat or two longer. Then his paw lashed out, fast and precise, disemboweling the hare. The animal version of field dressing\u2014or an appetizer. A scream sounded in my head again, starting as the dead rabbit\u2019s voice, then bleeding into a woman\u2019s sobbing cry. I turned away, but it was too late.\n",
-      "Finding the beheaded body earlier tonight had been too much of a reminder of the rogues\u2019 actions. Now, in my mind\u2019s eye, I saw claws rip through flesh. The flesh was furless, pale, human, and very much alive. The woman\u2019s scream redoubled in pain, and giddy amusement bubbled in me as I reached out to rip away more tender skin.\n",
-      "No, I won\u2019t see this\u2014won\u2019t feel it. Not again.\n",
-      "I squeezed my eyes shut, but I couldn\u2019t block out images playing behind my eyelids. Bobby\u2019s feline call of concern grew distant; the first clue that I was running. My stride carried me effortlessly through the frozen forest, but I couldn\u2019t distance myself from the memories haunting me.\n",
-      "And memories they were. They just weren\u2019t mine. I\u2019d absorbed the memories when I\u2019d tried to drain the rogue during our fight. My mind had touched his, had seen through his eyes, had felt the high that rushed through him when he killed. Now I had flashbacks that put me in a front-row seat to the sense-surround biography of a sociopath. And those tainted thoughts I\u2019d never be able to outrun.\n",
-      "Chapter Three\n",
-      "Running did little to clear my head, and I eventually forced myself to slow. Sticky blood seeped down the front of my costume from the hare\u2019s deep scratch on my shoulder. I probably ruined the costume. At least I\u2019ll never have to wear it again. Circling back to the cabin, I brushed the snow clinging to my bare feet on the welcome mat before stepping inside.\n",
-      "\u201cBobby? Nathanial? Anyone here?\u201d I called as I pushed the front door closed behind me.\n",
-      "No one answered, but footfalls thudded in the hall\u2014footfalls far too heavy to belong to a bobcat. I cringed as the double doors swung open and Nathanial\u2019s Newfoundland trudged into the kitchen.\n",
-      "\u201cSit, Regan.\u201d\n",
-      "The massive dog just cocked his head. He rounded the large table that monopolized the room, his black nose working as he approached. I pressed my back flat against the wall, my hand groping for the door knob.\n",
-      "\u201cRegan, stay.\u201d I peeled my free hand off the wall and tried to mimic the gesture Nathanial used to control the beast.\n",
-      "Regan didn\u2019t pay attention.\n",
-      "He took another step forward. Phantom pain laced through my torso, tracing the path of old scars from an attack I\u2019d barely survived as a child. The attack had been by a rogue wolf, not a dog, but dogs were still Canids, and close enough to wolves to make me uneasy.\n",
-      "The dog sniffed the air, his large muzzle lifting, and I shuffled sideways. Okay, maybe more than just \u201cuneasy.\u201d\n",
-      "Regan stopped, his floppy ears pricking like he heard something. Then his head swung to the door and his ears dropped, his hackles rising.\n",
-      "\u201cNiiice doggy,\u201d I whispered.\n",
-      "Regan\u2019s lip rolled back in a silent growl, but he wasn\u2019t looking at me. His gaze was fixed on the door. A loud ding dong sliced through the air.\n",
-      "I jumped. The doorbell? I hadn\u2019t even known Nathanial had a doorbell. And who would visit out here in the middle of nowhere? The bell dinged again. \u201cLet us in, little one,\u201d a deep female voice called, the words heavily accented by a throat clearly more accustomed to pronouncing a harsher Germanic language.\n",
-      "Oh, this evening kept getting better and better. I knew that voice. It belonged to the vampire council\u2019s enforcer, Anaya. And I was willing to bet, even though I couldn\u2019t hear him, that her companion Clive was with her. I\u2019d only met the pair of enforcers once before, but they\u2019d gleefully delivered me to what they had believed would be my final death. I didn\u2019t foresee us becoming friends.\n",
-      "\u201cYou\u2019ll have to come back later. Nathanial isn\u2019t here.\u201d\n",
-      "\u201cOpen the door.\u201d This time the voice was clipped and masculine. Definitely Clive.\n",
-      "Regan apparently didn\u2019t appreciate the vampire\u2019s tone either, because his silent growl became increasingly less silent.\n",
-      "My fists clenched at the growl, my fangs descending. He\u2019s not growling at you, I reminded myself, repeating it like a mantra in my mind. The mantra didn\u2019t help. A great, growling dog was between me and the door. He could have it.\n",
-      "I scuttled further away, sliding along the kitchen wall. Regan fell silent, and if I hadn\u2019t been listening so hard, I wouldn\u2019t have heard the creak of the wooden stairs outside.\n",
-      "Anaya and Clive were leaving? Just like that?\n",
-      "Regan looked at me, his mouth falling open and his pink tongue lolling out one side. It was a happy expression, I knew it was, but I still shivered at the sight of all his big, white teeth.\n",
-      "\u201cUh, why don\u2019t you stay here in the kitchen, and I\u2019ll go somewhere else?\u201d I asked the big dog.\n",
-      "He regarded me with shiny black eyes, and then plopped down on the tile.\n",
-      "I\u2019ll take that as yes.\n",
-      "Pushing off the wall, I crept across the room, angling for the swinging doors in the opposite corner. Regan watched every halting step. I was a yard beyond him when a loud bang crashed against the door.\n",
-      "I leapt backward, slamming into the huge table. Regan also jumped to his feet, his hackles lifting, his long fur fluffing out like an excited porcupine.\n",
-      "\u201cI think you lost something,\u201d Anaya called through the door. She punctuated the statement with the sound of something hard hitting something meaty.\n",
-      "A pained grunt drifted through the door. I\u2019d lost something that could be hurt?\n",
-      "Oh no.\n",
-      "Bobby.\n",
-      "Forgetting about the growling dog, I darted across the room and flung open the door. Anaya stood directly in front of the door, still dressed in the costume she must have been wearing at the party earlier\u2014unless she normally dressed as an eighteenth century bar wench with a skirt far too short for the time period. Behind her, Clive was dressed as Napoleon\u2014appropriate, given his height\u2014but instead of hiding his right hand in his uniform, he gripped Bobby\u2019s once again human wrists. Clive\u2019s other hand curled in Bobby\u2019s shoulder-length tawny hair, controlling Bobby\u2019s head, pulling it back to expose his naked throat."
-    ]
+    "publisher": "ACE"
   },
-  {
-    "name": "Third Blood",
-    "series": "Heaven",
-    "imagePath": "assets/Images/Thirdblood.png",
-    "description": [
-      "Going home after five years is difficult. It's harder still if you've changed species in the interim.",
-      "Kita Nekai, once the smallest shifter in Firth but now the newest vampire in the city of Haven, has no intention of returning home or informing her father and clan what she's become. Not that she has a choice. When the mage who holds her death certificate in his hands demands Kita return to Firth as his errand runner, she has to comply. Of course, there is no leaving her sire, Nathanial, behind. Which means introducing daddy dearest to the man—well, vampire—she may be falling for and confessing that she's lost the ability to shift. Talk about awkward.",
-      "Her homecoming goes from bad to worse when an attempt is made on her life, and Kita finds herself facing an unknown threat in a hostile world she never fit into in the first place. Can she survive long enough to complete the judge's task, stand trial before the elders for the rogues she created while on the run, and help defend her father's territory from an encroaching band of misfit shifters? Or is this cat down to her last life?"
-    ]
-  },
-  {
-    "name": "Kicking It",
-    "series": "Other",
-    "imagePath": "assets/Images/KickingIt.jpg",
-    "description": [
-      "Featuring stories by SHANNON K. BUTCHER * RACHEL CAINE * LUCIENNE DIVER * CHRIS MARIE GREEN * CHRISTINA HENRY * FAITH HUNTER * CHLOE NEILL * KALAYNA PRICE * ROB THURMAN",
-      "New York Times bestselling author Rachel Caine has modern-day potions witches Holly and Andrew facing off against a firebrand politician who wears literally killer boots in a Texas-sized rodeo of trouble.",
-      "Boot-loving Cadogan vampire Lindsey must team up with off-again, on-again vampire partner Luc when a woman from her past is targeted by supernaturals in New York Times bestselling author Chloe Neill’s all-new adventure.",
-      "And New York Times bestselling author Rob Thurman features Trixa Iktomi from her Trickster series dealing with magical vengeance and magical footwear.",
-      "Taking kick-ass urban fantasy literally, USA Today bestselling authors Kalayna Price and Faith Hunter bring together the best of the genre to once again prove when you’re fighting supernatural forces, it helps to keep your feet on the ground."
-    ],
-    "genre": "Urban Fantasy",
-    "isbn": "9780451419002",
-    "publisher": "Ace",
-    "stores": [
-      {
-        "name": "Amazon",
-        "link": "http://www.amazon.com/gp/product/0451419006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451419006&linkCode=as2&tag=offisiteofkal-20&linkId=PMFATYGML25JOJ2I"
-      },
-      {
-        "name": "Barnes and Noble",
-        "link": "http://www.barnesandnoble.com/w/kicking-it-faith-hunter/1114980151?ean=9780451419002"
-      },
-      {
-        "name": "Books a Million",
-        "link": "http://www.booksamillion.com/p/Kicking/Faith-Hunter/9780451419002?id=6344013310502"
-      },
-      {
-        "name": "Book Depository",
-        "link": "http://www.bookdepository.com/Kicking-it-Kalayna-Price/9780451419002"
-      }
-    ],
-    "audio": [
-      {
-        "name": "Amazon",
-        "link": "https://www.amazon.com/Kicking-It/dp/B00GY8DBGC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr="
-      },
-      {
-        "name": "Audible",
-        "link": "https://www.audible.com/pd/Kicking-It-Audiobook/B00GUNHXIS?qid=1549934914&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=S9PH69TD95C19B6R9JAP&"
-      }
-    ]
-  }
+    {
+      "name": "Once Bitten",
+      "series": "Haven",
+      "bookNumber": "1",
+      "imagePath": "assets/Images/OnceBitten.jpg",
+      "description": [
+        "For the past five years, Kita Nekai has faded into the background of the human world, but when a rogue shifter begins littering the city of Haven with bodies, Kita's illegal status lands her on the suspect list. During a confrontation with hunters that she can't win, rescue arrives in the form of the mysterious Nathanial Deaton. Kita soon wishes it hadn't when his method of saving her leaves her undead. With only three nights to prove her innocence and a new liquid diet to worry about, Kita doesn't want to deal with her infuriating rescuer or the ghost from her past who is determined to drag her back home. But, she needs help if she's going to stand any chance of survival."
+      ],
+      "genre": "Urban Fantasy",
+      "isbn": "9780980245394 ",
+      "publisher": "Bell Bridge Books ",
+      "stores": [
+        {
+          "name": "Amazon",
+          "link": "http://www.amazon.com/gp/product/0980245397?ie=UTF8&tag=offisiteofkal-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0980245397"
+        },
+        {
+          "name": "Barnes and Noble",
+          "link": "http://search.barnesandnoble.com/Once-Bitten/Kalayna-Price/e/9780980245394/?itm=1"
+        },
+        {
+          "name": "Books a Million",
+          "link": "http://www.booksamillion.com/product/9780980245394?id=4386810014983"
+        },
+        {
+          "name": "Book Depository",
+          "link": "http://www.bookdepository.com/book/9780980245394/Once-Bitten"
+        },
+        {
+          "name": "Fictionwise",
+          "link": "https://www.fictionwise.com/eBooks/eBook80226.htm?cache"
+        },
+        {
+          "name": "iBooks",
+          "link": "http://itunes.apple.com/us/book/once-bitten/id372289368?mt=11"
+        }
+      ],
+      "audio": [
+        {
+          "name": "Amazon",
+          "link": "http://www.amazon.com/Once-Bitten-Novel-Haven/dp/B005G0UZN6/ref=tmm_aud_title_0"
+        },
+        {
+          "name": "Audible",
+          "link": "http://www.audible.com/pd/ref=sr_1_4?asin=B005DF6XLC&qid=1324341093&sr=sr_1_4"
+        },
+        {
+          "name": "iTunes",
+          "link": "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAudiobook?id=452289250&s=143441"
+        }
+      ],
+      "foreign": [
+        {
+          "name": "(US) Amazon in German Language",
+          "link": "http://www.amazon.com/gp/product/B006LZGH7I/ref=as_li_ss_tl?ie=UTF8&tag=offisiteofkal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B006LZGH7I"
+        },
+        {
+          "name": "(Deutschland) Amazon in German Language",
+          "link": "http://www.amazon.de/exec/obidos/ASIN/3442378540/verlagsgruppe-21/"
+        }
+      ],
+      "firstChapter": [
+        "In the last ten minutes I\u2019d gone from miserable to totally screwed.\n",
+        "An hour ago I\u2019d thought a city named Haven would be good luck. Now I wondered who it was supposed to be a haven for\u2014polar bears and penguins? Next time I snuck aboard a train, I would remember to check whether it was headed north or south.  The snow-laden streets were the miserable bit; \u201cscrewed\u201d began two blocks back when I picked up the scent of something never meant to exist in the human world. Well, a something other than me.\n",
+        "A woman cut a beeline through my path, her attention on a curbing taxi. I stopped, the man behind me didn\u2019t.  He shouldered by with a grunt, his briefcase slamming into my thigh. I scowled after him but he didn\u2019t look back, let alone apologize.\n",
+        "I hated crowds. Any one of the bundled-up people trudging down the street could be hunting me. Of course, that same anonymity protected me. Shivering inside my over-large coat, I resisted the urge to glance over my shoulder as I matched pace with the pedestrian traffic. Remaining inconspicuous was key.\n",
+        "A \u201cDo Not Walk\u201d sign flashed, and the crowd stopped on the corner of Fifth and Harden. Horns blared and drivers shouted, but despite the green light, there wasn\u2019t much room for the cars to move. Some of the more impatient foot traffic wove through the vehicles, earning a one-fingered wave from a cabbie as another car slid into the space that opened in front of him. I debated crossing, but decided keeping a low profile among the suits on the corner was safer. Shifting my weight from foot to foot, I held my breath as a city bus covered us in a dirty cloud of exhaust.\n",
+        "A hand landed on my shoulder.\n",
+        "\u201cKita Nekai,\u201d a deep voice whispered. \u201cCome with me.\u201d\n",
+        "I froze, unable to turn for fear any movement would betray me into running. Breathe. I needed to breathe, an impossible task around the lump in my throat. My first gasp of air brought the hunter\u2019s scent to me, and the skin along my spine prickled in a response more primal than fear. Damn. Wolf. The blood rushing through my ears drowned out the street sounds so the crowd moved silently, in slow motion.\n",
+        "The fingers digging into my shoulder tightened, and my eyes darted to them. The manicured nails and white cuff peeking out under his brown coat sleeve marked the hunter as a suit. He\u2019d blend in nicely with this crowd.\n",
+        "\u201cLet go of me.\u201d I didn\u2019t bother whispering, and the woman beside me coughed as she glanced at us.\n",
+        "A half-turn put me eye level with the hunter\u2019s red-silk tie. I grabbed his wrist, a weak illusion that I was the one doing the restraining, and cleared my throat.\n",
+        "\u201cThief! Pickpocket! He stole my purse!\u201d\n",
+        "People turned, their eyes taking in the hunter\u2019s pristine pinstriped suit and my Salvation Army duster with its patched elbows and frayed hem. The suits closest to us shuffled further away, casting leery glances from the corners of their eyes. But they watched. They all watched, and the hunter couldn\u2019t just drag me off the street with so many human witnesses. I saw that realization burn across his amber eyes.\n",
+        "The light changed, and the crowd surged forward, filling the small gap that had opened when I created my scene. The hunter clung to my shoulder, but the push of bodies dislodged his hand, and I let myself be carried away. The businessmen in tailored suits and women in pumps towered over me. I never thought I\u2019d be grateful for being short, but with any luck, that would hide me from the hunter\u2019s view\u2014if only I could cover my scent that easily.\n",
+        "The crowd flowed down a set of cement stairs to the subway. The voices of hundreds of commuters bounced off the underground walls, a symphony of impatience accented by flickering florescent tubes. As they pushed into lines in front of the turnstiles, I realized the flaw in this plan: money, or really, my lack thereof.\n",
+        "Okay, no time to panic.\n",
+        "A weathered sign advertising public restrooms hung on my side of the turnstile, and I hurried through the door. The hunter wasn\u2019t likely polite enough to obey the little girls\u2019 room sign, but I was willing to bet the line of women waiting inside would give him pause.\n",
+        "I bypassed the line, ducking inside the first open stall and locking the thin door against the angry murmurs of protest. The cramped space boasted dingy walls covered in scrawled insults and just enough room to stand in front of a rust-rimmed toilet. What a lovely hiding place. The need to pace itched my heels, and I rocked back and forth on my toes, hugging my arms around my chest.\n",
+        "Someone pounded on my door.\n",
+        "\u201cStall\u2019s taken,\u201d I said.\n",
+        "\u201cHurry up,\u201d an agitated, but clearly female, voice said.\n",
+        "I ignored her. There were two other stalls she could use. \n",
+        "I rocked on my heels again. I needed a plan. The bladder-heavy humans aside, if I tried to out-wait the hunter the afterwork crowd would thin, and I needed human observers to protect me. The bathroom had only one door, and if the hunter saw me enter, all he had to do was watch for me to exit. Of course, if I could slip out without him recognizing me . . .\n",
+        "How much did he know about me? He knew my name and clan, but did he know anything else? It was a chance I had to take.\n",
+        "Balancing on the toilet seat, I tucked my knees to my chest so I wasn\u2019t visible under the stall walls. Around me, agitated voices complained about everything from the wait to the grey weather. I closed my eyes and tuned them out. I needed to center myself. Mentally I stroked the coiled energy inside me. It boiled. Spread. I anticipated the pain but still drew a ragged breath as the energy burst to the surface.\n",
+        "A sharp sting shot down my back, and the skin split open. My clothes vanished as they always had for my change. A whimper trembled in my throat, and I choked it back, but it escaped as my skin slipped off and reversed itself. My joints popped loudly as they reformed.\n",
+        "Someone banged on my door again. Could they hear the fleshy sound of my muscles and organs rearranging? I hoped they were just impatient. Then I passed into the seconds of the change in which I had no awareness of my surroundings.\n",
+        "My skin sealed around my body again, and the dingy stall snapped back into focus. My right foot slipped, and I fell up to my hips into the toilet bowl. Hissing, I scrambled over the seat and landed with a wet plop on the tiled floor.\n",
+        "Great, now I resembled a half-drowned rat.\n",
+        "Twitching my tail, I shook my back legs and tried to dislodge as much of the water as possible. I only accomplished further soaking the gritty tile. My back paw slipped, leaving grey streaks in its wake across the brown tile.\n",
+        "Disgusting.\n",
+        "I craned my neck, then hesitated. Did I really want to give my fur a quick bath? That was toilet water. It was better for it to be on my fur than my tongue, right? I struggled with that thought a moment, my instincts demanding the offensive substance be removed.\n",
+        " \u201cAnybody in there?\u201d Someone shook the stall door.\n",
+        "My attention snapped back to more important matters\u2014time was of the essence, a bath would have to wait. I was taking a risk by shapeshifting into my second form. If the hunter found me, I wouldn\u2019t be able to defend myself\u2014at least not in anyway that would matter, and no one would question him chasing down a cat. But, I had to get out of this subway station.\n",
+        "A child pointed as I crawled under the bathroom stall.\n",
+        "\u201cLook Mommy, a calico!\u201d\n",
+        "I sauntered closer to the girl, staying just out of reach\u2014children had the tendency to pull tails.\n",
+        "\u201cStay away from it,\u201d her mother said, jerking the child back. \u201cIt might be rabid.\u201d\n",
+        "My lips curled to hiss at the insult, but I curbed the desire. Hostility wouldn\u2019t get me anywhere.\n",
+        "Purring, I wound around the legs of the next lady in line. She pressed a tissue to her nose and backed away. Great.\n",
+        "Who was my most likely ticket out? My gaze landed on a woman washing her hands. She\u2019d been shopping, and several large department store bags stood staunchly at her feet. Slinking over, I dove into a fancy white bag and curled up beside a hat box and hoped she wouldn\u2019t notice the extra weight.\n",
+        "I repositioned myself to balance the load as she claimed her belongings and bustled out of the bathroom. The bag swung in her grip, propelling me into something hard. The turnstile was a nightmare. She pushed through it, and one of the packages squeezed all the air out of me. I thought the worst must be over as the bags swung free again, but the swaying made my stomach threaten to rebel.\n",
+        "No, I won\u2019t be sick. I refuse to.\n",
+        "I got sick all over her hatbox.\n",
+        "Shaking, I eased away from the box. The swish of the train doors opening initiated another barrage of attacks as people crowded into the car. The train lurched into motion, but the movement of the bag settled.\n",
+        "I peeked out and found myself at eye level with a startled brunette. She screamed, dumping the contents of her lap to the floor. I guess the cat was out of the bag\u2014well, not yet, but I needed to be. Dashing through a forest of legs, I hid under the seat of a man in mud-caked construction boots.\n",
+        "From the limited shelter, I sniffed the recycled, train-car air. Not a hint of the hunter\u2019s scent. \n",
+        "Thank the moon.\n",
+        "In the past five years I\u2019d caught a hunter\u2019s scent maybe half-a-dozen times. Most cities had at least one hunter stationed somewhere to watch for rogues and strays, but I\u2019d  never before had any reason to believe they were hunting me specifically. This wolf obviously was.\n",
+        "Closing my eyes, I mentally touched the tight coil inside me. It would be awhile before I could return to human form. Well, chances were good that the station where I ended up would be far from the hunter. Tucking my tail around my body, I resigned myself to a long ride."
+      ]
+    },
+    {
+      "name": "Twice Dead",
+      "series": "Haven",
+      "bookNumber": "2",
+      "imagePath": "assets/Images/TwiceDead.jpg",
+      "description": [
+        "Kita is adjusting to her new liquid diet--an adjustment she rather resents. Not that everything was chocolate and sunshine before (though both were possible before the sexy but infuriating Nathanial sank his fangs in her business). Kita's ability to shape shift into a kitten when her peers shifted into lions and tigers complicated her life, to say the least, but getting stuck in one form--that of a human shaped tick, a.k.a. a vampire--sucks, literally. Her adjustment period is violently interrupted when she discovers a headless corpse during a party for a visiting vampire council. But, the headless dancer won't be the only corpse she encounters.",
+        "Kita's involvement draws the attention of the Collector, an ancient vampire with an inclination to acquire two things: power and oddities. As a pureblood shifter turned vampire, Kita ranks high on the collectability list--not a safe place for anyone who values her freedom, and Kita is not the only one on the list. But with the body count rising, there is more at stake than freedom. A killer is slithering through the underbelly of Haven's vampire community, and with the supernaturals dealing in unnamed favors, it's a bad time to be a kitten who can't slip her skin."
+      ],
+      "genre": "Urban Fantasy",
+      "isbn": "9780984325672",
+      "publisher": "Bell Bridge Books ",
+      "stores": [
+        {
+          "name": "Amazon",
+          "link": "http://www.amazon.com/gp/product/0984325670?ie=UTF8&tag=offisiteofkal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0984325670"
+        },
+        {
+          "name": "Barnes and Noble",
+          "link": "http://search.barnesandnoble.com/Once-Bitten/Kalayna-Price/e/9780980245394/?itm=1"
+        },
+        {
+          "name": "Books a Million",
+          "link": "http://www.booksamillion.com/product/9780980245394?id=4386810014983"
+        },
+        {
+          "name": "Book Depository",
+          "link": "http://www.bookdepository.com/book/9780984325672/Twice-Dead"
+        },
+        {
+          "name": "Fictionwise",
+          "link": "https://www.fictionwise.com/eBooks/eBook80226.htm?cache"
+        },
+        {
+          "name": "iBooks",
+          "link": "http://itunes.apple.com/us/book/twice-dead/id372292887?mt=11"
+        }
+      ],
+      "audio": [
+        {
+          "name": "Amazon",
+          "link": "http://www.amazon.com/Twice-Dead-Novel-Haven/dp/B005G0V60W/ref=tmm_aud_title_0"
+        },
+        {
+          "name": "Audible",
+          "link": "http://www.audible.com/pd/ref=sr_1_2?asin=B005DEYYXW&qid=1324341134&sr=sr_1_2"
+        },
+        {
+          "name": "iTunes",
+          "link": "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAudiobook?id=452289781&s=143441"
+        }
+      ],
+      "firstChapter": [
+        "I propped my elbows on the balcony rail that hung over the Death\u2019s Angel dance floor. Below me, industrial music pounded against scantily-clad bodies contorting to the beat. A man in a wolf mask and tight pleather pants ground against a girl wearing a tattered red cloak and strategically placed electrical tape. A zombie in more chains than clothes shambled past the couple, headed for a coven of dominatrix witches. Fictional characters and sexualized movie monsters milled everywhere. What most of the clubbers didn\u2019t realize was that among the costumed masses were real monsters\u2014and I was one of them.\n",
+        "I glanced at the man beside me. Well, not a man exactly, more like vampire. Nathanial leaned against the wooden balcony rail, his back to the club and dancers. A white opera mask covered half his face, but unlike the famous mask of the fictional phantom, the thin porcelain didn\u2019t cover deformity or ugliness\u2014far from it. Nathanial\u2019s features were as sharp and perfect as if they\u2019d been carved by an artist. They were also currently set in an expression of annoyed arrogance that was as fake as the mask. He\u2019d held that exact expression since we arrived at the club an hour ago.\n",
+        "\u201cWe showed up. We\u2019ve been seen. Can we go now?\u201d I asked, swirling the contents of my untouched Bloody Mary.\n",
+        "\u201cKita.\u201d\n",
+        "My name. Just my name, without any inflection. I took his meaning as \u2018No\u2019 or maybe that I already knew the answer. And I did. Tatius, the big bad vampire king of Haven, had summoned us to his little party for a visiting master vamp. So here we were. I balanced the acidic smelling drink on the rail. And here we\u2019ll stay until we\u2019re dismissed.\n",
+        "So far, my introduction into eternity as a vampire sucked\u2014and not just blood. Sighing, I shoved the untouched alcohol aside. The bartender, dressed as, shock of all shocks, a vampire\u2014complete with genuine fangs\u2014retrieved the precariously balanced glass before moving on to a customer whose drinking habits required a lower iron content.\n",
+        "Without the glass, I had nothing to fidget with, and my attention returned to the writhing bodies on the dance floor. So many people. So many hearts racing and crashing below thin skin. So many heartbeats drowning out the blaring music. Pressure built in the roof of my mouth, turning to pain as my fangs descended.\n",
+        "A warm hand landed on my shoulder, and I tore my gaze from the dancers. Nathanial watched me, his fingers sliding from my shoulder, down my arm, to my hand. My knuckles were white where I gripped the balcony rail.\n",
+        "I pried my fingers from the wood. Nathanial\u2019s crystal gray gaze flicked to the movement, then back to my mouth.\n",
+        "\u201cIt\u2019s nothing,\u201d I whispered, trying to keep my lips pressed over my fangs as I spoke.\n",
+        "Not that it mattered.\n",
+        "\u201cPerhaps we should mingle.\u201d His expression didn\u2019t change. Not a feature twitched, despite the fact I knew he had no interest in talking to anyone in the balcony crowd.\n",
+        "The balcony was VIP only. Or really, VIV\u2014Very Important Vampire. Some humans were present, as snacks. Thankfully, I hadn\u2019t noticed any public bloodletting. Yet. But, as vamps didn\u2019t trigger my prey instinct, mingling with them was less likely to result in my accidentally eating someone. On the other hand, it also meant I had to talk to the other vamps\u2014which was way more dangerous, in my opinion.\n",
+        "It wasn\u2019t an option I was eager to embrace. \u201cI just need some air.\u201d\n",
+        "The edge of Nathanial\u2019s lips tugged downward. A small motion, barely noticeable. It was his first slip all night\u2014and it wasn\u2019t approval. We disagreed on my eating habits, or more accurately, the fact I was subsisting on only animal blood. He was of the opinion that I needed human blood. I was of the opinion that it was his fault I was on a liquid diet in the first place, and he better put up with my sustenance of choice. I sighed, blowing a lock of my tri-colored hair out of my face and intentionally misinterpreting his look.\n",
+        "\u201cI know, I know. Vampire. I don\u2019t need to breathe,\u201d I whispered in an exaggerated huff. \u201cBut I can\u2019t change twenty-four years of expressions just because I recently woke up slightly less than alive.\u201d\n",
+        "Nathanial shook his head, but a smile touched the edge of his mouth. \u201cWalk with me.\u201d\n",
+        "His fingers slid through mine and tugged me from the balcony rail. Reluctantly, I followed him into the crowd of vampires.\n",
+        "The costumes on this level were more diverse than those on the dance floor below. True masquerade outfits, elegant dresses, velvet top coats, and jewel-encrusted masks made the balcony crowd colorful. But for every Victorian dress or harlequin was a vampire wearing only leather straps across strategic body parts. I couldn\u2019t recognize the native Haven vamps by sight, but considering my previous experience with the local vamps, and the fact Death\u2019s Angel was operated by them, I suspected the visitors weren\u2019t the ones in bondage gear.\n",
+        "Nathanial conformed to neither group. His porcelain mask was plain, unadorned, and his black hair hung in a long ponytail trailing down the center of his back, blending with the lush fabric of his opera coat. His costume defined elegance in simple stark black and white.\n",
+        "In contrast, my costume was garishly bright. Black and orange tiger stripes decorated my skin-tight unitard. Faux fur rimmed my white gloves and fuzzy white boots. A striped mask completed the outfit. My mess of calico locks\u2014my hair\u2019s natural color and a reminder of what I had been until a couple weeks ago\u2014almost matched the costume. Almost. Nathanial had asked me if I could be anything, what I would be.\n",
+        "I glared at the stripes. Tiger stripes. Like my father\u2019s. Me and my big mouth.\n",
+        "\u201cHermit, it has been a long time,\u201d a male voice said. I cringed. Only vamps called Nathanial \u2018Hermit.\u2019 Nathanial turned toward the voice, moving me with him, and Ilooked up, and then up some more. The speaker towered over us, and while I was on the short side, Nathanial wasn\u2019t. The man wore a fitted crushed velvet maroon frock coat I could have used as a dress. Falls of lace escaped from his cuffs and collar, and a gold mask set with rubies obscured wide features. He was so massive, it took me a moment to notice the small woman at his side. She was his exact opposite. Where he was all blunt edges she was sharp, petite. She was my height, but beside him she looked like a fragile doll in her frilled dress and silver mask.\n",
+        "\u201cThree hundred years, I believe, Traveler,\u201d Nathanial said, his voice polite but disinterested.\n",
+        "\u201cAt least.\u201d The giant\u2019s gaze moved from Nathanial to me and then back. \u201cA lot has changed in that time.\u201d\n",
+        "I groaned silently\u2014or perhaps not all that silently, as all eyes moved to me. Oops. Still, I didn\u2019t want to listen as they hashed out three hundred years of vampire history as small talk. I glanced around. There was an empty spot on a couch in the far corner of the balcony. \u201cI think I\u2019ll just . . . \u201d I pointed at the couch. Nathanial\u2019s eyes frowned at me. Not his mouth, or his expression,\n",
+        "I\u2019d just come to know those eyes, to know him, well enough over the last few weeks to see the fact he didn\u2019t think it was a good idea.\n",
+        "\u201cIt\u2019s just right there,\u201d I said, backing away as I spoke.\n",
+        "He didn\u2019t stop me, so I turned tail, all but running for the sanctuary of the couch.\n",
+        "Most of the seating on the balcony was filled\u2014vamps tended to sprawl, but the couch I claimed had only one other person sitting rigidly at the other end. She wore a simple, black\u2013and-white, harlequin jumper with an elaborate, full-faced mask, a large feathered hat, and brown curls that looked so synthetic they had to be a wig.\n",
+        "She didn\u2019t move as I collapsed onto the far cushion, and I let out a relieved breath. At least I won\u2019t be expected to socialize. I refilled my lungs\u2014the habits of the living die hard\u2014and that was a mistake.\n",
+        "The cloying scent of blood rolled over my tongue, caught in the back of my throat, filled my senses. The scent was cold, bitter, not all that appetizing, but it was very close and thus, tempting. Oh, so close. My fangs burst free in a flash of hunger, and I slid across the cushion without consciously deciding to move.\n",
+        "The woman didn\u2019t react or look up as I sidled up next to her. There was something off about the scent of her blood. But that didn\u2019t matter. Not right now. All that mattered was the smell of it.\n",
+        "My fingers brushed her shoulder. The mask tumbled forward. The hat and wig followed, the wig's synthetic curls flying.\n",
+        "I jumped to my feet. Above the frill of her collar was a stubby, raw neck. No head.\n",
+        "A fake mannequin head plunked against the floor. Rolled. It stopped finally, settling three feet from the couch. I backed away, aware of the heavy silence suddenly coalescing on the balcony. Industrial music still pounded below me, but the vampires had gone deadly still.\n",
+        "A large hand closed around my arm. The grip tight. Painful.\n",
+        "\u201cWhat did you do?\u201d A rough voice whispered the question behind my ear.\n",
+        "\u201cI, uh . . . \u201d I gulped and made a wild, floundering motion from the head to the body. \u201cHer head just fell off?\u201d\n",
+        "A woman in a gold-trimmed gown stepped forward and knelt to study the fake head. Un-seeing glass eyes stared out of it. As if all tied to one string, every vampire in the room shifted their gaze from the head, to me, and then to the body, which was still perched primly on the couch. Her hands were in her lap, one gripping a glass balanced on her thigh, but she was definitely not a mannequin. The smell of blood aside, I could see the white of her exposed spine among the pinker flesh of her throat.\n",
+        "\u201cWhat is the meaning of this?\u201d demanded the woman in the gold trimmed gown. \u201cWhere is her head?\u201d\n",
+        "I thought, at first, that the woman was asking me. As if I had any idea. Then I realized her glare went over my shoulder, to the man still gripping my arm. I glanced back, but didn\u2019t recognize the vamp holding me. Based on the leather pants loaded with silver studded straps, and the electric blue hair that fell to his chin in jagged tapered tips, I guessed he was one of the local vamps. Then I noticed his eyes: green and old, with a gaze that landed like a physical weight on my skin.\n",
+        "Tatius.\n",
+        "I swallowed hard. Oh crap, a decapitated body and the attention of the king of Haven. Did I know how to break up a party or what?\n",
+        "Chapter Two\n",
+        "\u201cWhat happened?\u201d Tatius demanded, his glare boring into me.\n",
+        "I looked around. Nathanial was several feet away, standing at the edge of the semi-circle that had opened around me. His posture was aloof, uninterested, but he watched me without blinking. He tapped two long fingers on his full bottom lip, as if idly contemplating an obscure thought, but again, his gaze didn\u2019t waver. Something about my mouth? I pressed my lips together.\n",
+        "Crap. My fangs were still out.\n",
+        "I willed the damn things to retract, and Tatius\u2019s grip on my arm tightened. He shook me.\n",
+        "\u201cI said, what happened?\u201d \u201cI touched her shoulder, that was all.\u201d \u201cShould we guess why?\u201d A chime-like voice spoke from\n",
+        "somewhere in the mass of vampires. I gritted my teeth and resisted the urge to press my hand over my\n",
+        "mouth. My fangs weren\u2019t visible anymore, I knew that, but it was no great mystery to anyone on the balcony what had been motivating me. \u201cShe smelled like blood,\u201d I muttered under my breath.\n",
+        "I should have known better. Vampire hearing was exquisite.\n",
+        "The woman in the gold-trimmed dress lifted an arched eyebrow dotted with rhinestones. \u201cIn this crowd, I should think more than a reckless child\u201d\u2014she dismissed me with the insult\u2014\u201cwould have noticed blood. Unless there was some trick involved.\u201d She stared at the posed figure again. There was no blood on the collar of the outfit\u2014 there wasn\u2019t even blood around the cleanly severed stub of neck. The woman turned back to Tatius. \u201cWhat have you to say of this, Puppet Master?\u201d\n",
+        "\u201cMy apologies, Collector. I assure you, I intend to get to the bottom of it.\u201d Tatius\u2019s gruff voice crackled down my back.\n",
+        "Collector? Great. The Collector was the big bad star of this party. The guest of honor. I so needed to get out of here. In my old life I\u2019d learned better than to pull an alpha cat\u2019s tail\u2014though knowing better didn\u2019t mean it didn\u2019t happen anyway, sometimes. But I totally hadn\u2019t meant to land in the center of this attention. \u201cNuri,\u201d Tatius said, turning toward the crowd. The mass of vampires who\u2014now that the initial shock of the body\u2019s discovery had worn off\u2014were murmuring among themselves, parted to allow a pre- teen girl through.\n",
+        "As the girl, Nuri, approached, Tatius released my arm. Thank the moon. I moved to step aside, but his hand slid around the back of my neck. The touch wasn\u2019t restraining, but it was overly personal, his fingers coming to a rest in the hollow between my collarbone and throat. Oh hell no. The last time I met Tatius, he\u2019d considered killing me. Then he\u2019d forced his blood in me. I did not want anything else to do with the vamp.\n",
+        "I tried to shrug him away, but his fingers flexed in response, his nails biting against my skin. Okay, so apparently I was going to have to make a scene\u2014another scene\u2014or stay put. I erred on the side of caution, for once.\n",
+        "Nuri, dressed as an ancient Egyptian queen with a large snake peeking out beneath her dark dreadlocks, knelt beside the harlequin. As I watched her lift the dead woman\u2019s hand, I realized where I\u2019d seen Nuri before. She\u2019d sat at the council table the first time I was brought before the vampires, which meant she must be a lot older than she looked.\n",
+        "After a moment of poking at the body, she stood and turned to Tatius. \u201cRigor mortis has only begun to set, so I\u2019d guess she\u2019s been dead no more than four hours. There is no tearing of the flesh, so she was decapitated by a sharp instrument. The lack of blood suggests she was drained before death. I\u2019ll report more when I find it.\u201d The words were too old, too serious for her thin, girlish voice. Not that anyone else appeared to notice. She stepped aside and nodded to two pleather- clad vampires, who rushed forward to lift the body and carry it toward a private elevator in the corner. The fake head still lay on the floor, ignored.\n",
+        "The Collector stepped forward, over the forgotten head, until the train of her dress engulfed it. \u201cYou have your Truthseeker looking into things, and while I\u2019m sure she will be very thorough\u201d\u2014the way she said it made it clear she was not certain of any such thing\u2014\u201cI offer the assistance of one of my vampires.\u201d Without waiting for an answer, she lifted her hand. \u201cElizabeth, attend us.\u201d\n",
+        "Tatius\u2019s fingers flexed against my skin. Agitation? Anger? But he didn\u2019t say anything as the small, doll-like woman I\u2019d seen earlier in the night on the giant\u2019s arm stepped forward. \u201cI will be happy to assist,\u201d the woman said, curtsying to the\n",
+        "Collector. Then she turned and her icy eyes caught on mine. \u201cAt least we know the harlequin wasn\u2019t this fledgling\u2019s snack.\u201d\n",
+        "Tatius\u2019s fingers flexed again, harder this time. \u201cHermit, find her someone to eat.\u201d He shoved me toward Nathanial, and I gladly retreated from the center of attention.\n",
+        "Nathanial\u2019s arm slipped around my waist as I reached him, and he wove us through the crowd, away from the couches. We passed the two vampires waiting for the elevator with the body, and I breathed deeply, rolling the decapitated woman\u2019s scent through my senses. The sweet tang of blood reached for me, made the roof of my mouth burn, but I focused on committing her scent to memory.\n",
+        "Nathanial didn\u2019t fail to notice my signs of hunger. \u201cI am taking you home.\u201d\n",
+        "Home. It was a nice thought. I\u2019d had enough with vampires. Enough of their double-tongued political games. And enough headless bodies. But . . .\n",
+        "I glanced back at the vamps loading the corpse into the elevator, but it wasn\u2019t her harlequin costume I saw. My mind replaced her with the image of another body, one bloated from several days of death. A human body that had been, in part, my fault, because I\u2019d accidentally created the shifter who\u2019d killed her. I\u2019d tracked the murderer, stopped him, but the weight of his victims wore on me.\n",
+        "Nathanial studied me with eyes that saw too much. Eyes that stripped away my secrets. He shook his head, a small smile tipping the edge of his lips. It wasn\u2019t a happy smile. I looked away, and he drew me closer to the side of his body without breaking stride toward the stairs.\n",
+        "\u201cI will take you to the hospital,\u201d he said. \u201cYou can visit them.\u201d\n",
+        "Two weeks ago, I would have avoided hospitals at all costs. But then, two weeks ago, I\u2019d still had to breathe to live, I\u2019d spent most of my time as a six-pound calico kitten, and I hadn\u2019t yet known I\u2019d created a rogue who\u2019d gone on a killing spree. A rogue whose victim count totaled fourteen women.\n",
+        "The only two survivors were currently in medically-induced comas at Saint Mary\u2019s Hospital. Two weeks ago it would have been easier to walk away from a headless body. To trust that someone else would deal with it. A lot can change in two weeks.\n",
+        "I glanced back at the gathered vampires. All the vampires in Haven were on this balcony. The harlequin had been drained of blood. If the killer was a vampire, he was here. It has nothing to do with me. This murder isn\u2019t my responsibility. It isn\u2019t.\n",
+        "I let Nathanial lead me out of the club. But damn, guilt was a bitch.\n",
+        "***\n",
+        "Two hours later, I walked into Nathanial\u2019s kitchen. Without Nathanial. After all, we hadn\u2019t been formally dismissed by Tatius, so he had to return to Death\u2019s Angel after our visit to the hospital. I was still flushed from the flight home as I followed the sounds of the television into the front den. Even after dozens of airborne trips with Nathanial, I still couldn\u2019t get enough of the wind in my face and watching the world slip by below us. I could only hope the ability to fly would be a vampire trick I\u2019d learn one day.\n",
+        "I pushed open the den door. \u201cYou up for a hunt?\u201d\n",
+        "Bobby, a shifter from my home world of Firth, and once the big love of my life, was currently a couch-crasher in Nathanial\u2019s cabin and would continue to be until the gate to Firth reopened and he could return to his pregnant mate. He looked up as I entered. Our relationship was complicated, and awkward, but we were working it out. Mostly. When he wasn\u2019t threatening to drag me back to Firth with him, that is.\n",
+        "He hit a button on the remote, muting the brightly animated cartoon on the screen. Then he lifted his feet from the arm of the couch. I slid into the free spot.\n",
+        "\u201cSo, hunting?\u201d\n",
+        "\u201cStill hungry? We caught dinner before you left.\u201d He frowned, his brow creasing, and he rolled to a sitting position. \u201cDid something happen at that vamp club?\u201d\n",
+        "\u201cIt, no, well . . . \u201d I grabbed one of the hunter green throw pillows and dragged it into my lap. \u201cI\u2019m just hungry.\u201d\n",
+        "Bobby slid closer, moving into my personal space. \u201cYou\u2019re starting to smell like a frightened rabbit.\u201d\n",
+        "Okay, this was what I meant by awkward. I jumped to my feet. \u201cI\u2019ll just go by myself.\u201d \u201cKitten . . . \u201d \u201cForget I asked.\u201d I headed for the door. Bobby was right. We\u2019d already hunted tonight. Even with the heightened metabolism of a shapeshifter, Bobby was only one person and his other form was a bobcat\u2014he didn\u2019t need two rabbits in one night. Hell, in Firth, he wouldn\u2019t have eaten more than three or four rabbits a week. It was wasteful to kill more tonight.\n",
+        "He caught up with me at the front door and pulled his sweater off despite the blanket of snow spreading out around the cabin. He had to shift if he intended to hunt.\n",
+        "I took the front steps two at a time. \u201cI said to forget it.\u201d\n",
+        "He jutted his chin and continued to disrobe. \u201cWe\u2019ll freeze the extra meat.\u201d His fingers moved to the button of his jeans. \u201cYou hunting like that?\u201d\n",
+        "I glanced down. I was still wearing the ridiculous tiger suit, but unlike Bobby, my clothes didn\u2019t matter. He\u2019d lose a lot of mass once he shifted, and a thirty-pound bobcat couldn\u2019t exactly wear a two- hundred-pound man\u2019s jeans and sweater. Technically, whenever I shifted, my clothing disappeared. That was my gift. Or it had been, before I became a vampire. Now I was stuck in one form. My claws had extended, once, when I\u2019d been in a fight for my life against the rogues. But since then, my cat had remained locked in the cold coil inside me. Dead.\n",
+        "I kicked off my party boots. \u201cLet\u2019s hunt.\u201d\n",
+        "***\n",
+        "Snow crunched under my bare toes, and my prey lifted its head, its long ears twitching. I went still, not even daring to breathe. Beside me, Bobby hesitated, his compact bobcat form disappearing behind a frozen shrub.\n",
+        "The snow hare\u2019s ears twitched again, his whiskers trembling as his nose worked. Muscles bunched as he prepared to leap, and I sprang into motion.\n",
+        "Brittle, ice-encased twigs shattered as I broke through the frozen brush. My dash was noisy, but that didn\u2019t matter now. Not at the speed I was moving. I pounced, snatching the hare in mid-bound.\n",
+        "It screamed, a piercing distress call. I grabbed at its pumping back legs, but one slipped away. Pain flared across my collarbone as the hare\u2019s back claws ripped through the thin material of my costume, tearing into the skin below. Not that the pain stopped me. I caught the leg with one hand, gripping the hare\u2019s scruff with the other, and effectively immobilized it. Fur brushed my lips, then my fangs sank into the back of its neck. Liquid warmth filled my mouth, slid down my throat. Heat, life, filled my torso, spreading contentment toward my limbs.\n",
+        "Then the hare\u2019s mind opened to me.\n",
+        "Panic raked across my senses, stabbing deep. Run, the hare\u2019s instincts urged me. Every cell in my body knew I\u2019d die if I couldn\u2019t run. My heart jumped to my throat, making swallowing difficult.\n",
+        "A vampire bite caused euphoria in humans, but animals recognized death when it caught them. Still, even as the depths of the hare\u2019s fear enfolded me, I had other instincts\u2014darker, more demanding needs which kept my mouth working, my throat convulsing.\n",
+        "The small hare drew one last breath. Then the connection between our minds snapped. The sudden absence of its terrified presence left a gaping hole in my mind\u2014an emptiness which didn\u2019t fill as I regained awareness of myself and of the limp body in my fingers.\n",
+        "My hands trembled as I set the small corpse in front of Bobby. I swallowed hard. My tongue tasted like I\u2019d been sucking on an old piece of copper, and I shivered despite the new warmth rushing through my limbs. This is natural. The way it should be. I\u2019d been born a predator. A cat. I\u2019d hunted with my clan all my life. This hare was prey, serving its function in the circle of life.\n",
+        "Bobby butted my knee with his tawny, bobcat head, his imploring, almond-shaped eyes watching me. My gaze refocused, and I realized I was still crouched over the dead hare, my thumb sliding along its cooling paw. I pulled my hand away and lunged to my feet.\n",
+        "Bobby stared at me a heartbeat or two longer. Then his paw lashed out, fast and precise, disemboweling the hare. The animal version of field dressing\u2014or an appetizer. A scream sounded in my head again, starting as the dead rabbit\u2019s voice, then bleeding into a woman\u2019s sobbing cry. I turned away, but it was too late.\n",
+        "Finding the beheaded body earlier tonight had been too much of a reminder of the rogues\u2019 actions. Now, in my mind\u2019s eye, I saw claws rip through flesh. The flesh was furless, pale, human, and very much alive. The woman\u2019s scream redoubled in pain, and giddy amusement bubbled in me as I reached out to rip away more tender skin.\n",
+        "No, I won\u2019t see this\u2014won\u2019t feel it. Not again.\n",
+        "I squeezed my eyes shut, but I couldn\u2019t block out images playing behind my eyelids. Bobby\u2019s feline call of concern grew distant; the first clue that I was running. My stride carried me effortlessly through the frozen forest, but I couldn\u2019t distance myself from the memories haunting me.\n",
+        "And memories they were. They just weren\u2019t mine. I\u2019d absorbed the memories when I\u2019d tried to drain the rogue during our fight. My mind had touched his, had seen through his eyes, had felt the high that rushed through him when he killed. Now I had flashbacks that put me in a front-row seat to the sense-surround biography of a sociopath. And those tainted thoughts I\u2019d never be able to outrun.\n",
+        "Chapter Three\n",
+        "Running did little to clear my head, and I eventually forced myself to slow. Sticky blood seeped down the front of my costume from the hare\u2019s deep scratch on my shoulder. I probably ruined the costume. At least I\u2019ll never have to wear it again. Circling back to the cabin, I brushed the snow clinging to my bare feet on the welcome mat before stepping inside.\n",
+        "\u201cBobby? Nathanial? Anyone here?\u201d I called as I pushed the front door closed behind me.\n",
+        "No one answered, but footfalls thudded in the hall\u2014footfalls far too heavy to belong to a bobcat. I cringed as the double doors swung open and Nathanial\u2019s Newfoundland trudged into the kitchen.\n",
+        "\u201cSit, Regan.\u201d\n",
+        "The massive dog just cocked his head. He rounded the large table that monopolized the room, his black nose working as he approached. I pressed my back flat against the wall, my hand groping for the door knob.\n",
+        "\u201cRegan, stay.\u201d I peeled my free hand off the wall and tried to mimic the gesture Nathanial used to control the beast.\n",
+        "Regan didn\u2019t pay attention.\n",
+        "He took another step forward. Phantom pain laced through my torso, tracing the path of old scars from an attack I\u2019d barely survived as a child. The attack had been by a rogue wolf, not a dog, but dogs were still Canids, and close enough to wolves to make me uneasy.\n",
+        "The dog sniffed the air, his large muzzle lifting, and I shuffled sideways. Okay, maybe more than just \u201cuneasy.\u201d\n",
+        "Regan stopped, his floppy ears pricking like he heard something. Then his head swung to the door and his ears dropped, his hackles rising.\n",
+        "\u201cNiiice doggy,\u201d I whispered.\n",
+        "Regan\u2019s lip rolled back in a silent growl, but he wasn\u2019t looking at me. His gaze was fixed on the door. A loud ding dong sliced through the air.\n",
+        "I jumped. The doorbell? I hadn\u2019t even known Nathanial had a doorbell. And who would visit out here in the middle of nowhere? The bell dinged again. \u201cLet us in, little one,\u201d a deep female voice called, the words heavily accented by a throat clearly more accustomed to pronouncing a harsher Germanic language.\n",
+        "Oh, this evening kept getting better and better. I knew that voice. It belonged to the vampire council\u2019s enforcer, Anaya. And I was willing to bet, even though I couldn\u2019t hear him, that her companion Clive was with her. I\u2019d only met the pair of enforcers once before, but they\u2019d gleefully delivered me to what they had believed would be my final death. I didn\u2019t foresee us becoming friends.\n",
+        "\u201cYou\u2019ll have to come back later. Nathanial isn\u2019t here.\u201d\n",
+        "\u201cOpen the door.\u201d This time the voice was clipped and masculine. Definitely Clive.\n",
+        "Regan apparently didn\u2019t appreciate the vampire\u2019s tone either, because his silent growl became increasingly less silent.\n",
+        "My fists clenched at the growl, my fangs descending. He\u2019s not growling at you, I reminded myself, repeating it like a mantra in my mind. The mantra didn\u2019t help. A great, growling dog was between me and the door. He could have it.\n",
+        "I scuttled further away, sliding along the kitchen wall. Regan fell silent, and if I hadn\u2019t been listening so hard, I wouldn\u2019t have heard the creak of the wooden stairs outside.\n",
+        "Anaya and Clive were leaving? Just like that?\n",
+        "Regan looked at me, his mouth falling open and his pink tongue lolling out one side. It was a happy expression, I knew it was, but I still shivered at the sight of all his big, white teeth.\n",
+        "\u201cUh, why don\u2019t you stay here in the kitchen, and I\u2019ll go somewhere else?\u201d I asked the big dog.\n",
+        "He regarded me with shiny black eyes, and then plopped down on the tile.\n",
+        "I\u2019ll take that as yes.\n",
+        "Pushing off the wall, I crept across the room, angling for the swinging doors in the opposite corner. Regan watched every halting step. I was a yard beyond him when a loud bang crashed against the door.\n",
+        "I leapt backward, slamming into the huge table. Regan also jumped to his feet, his hackles lifting, his long fur fluffing out like an excited porcupine.\n",
+        "\u201cI think you lost something,\u201d Anaya called through the door. She punctuated the statement with the sound of something hard hitting something meaty.\n",
+        "A pained grunt drifted through the door. I\u2019d lost something that could be hurt?\n",
+        "Oh no.\n",
+        "Bobby.\n",
+        "Forgetting about the growling dog, I darted across the room and flung open the door. Anaya stood directly in front of the door, still dressed in the costume she must have been wearing at the party earlier\u2014unless she normally dressed as an eighteenth century bar wench with a skirt far too short for the time period. Behind her, Clive was dressed as Napoleon\u2014appropriate, given his height\u2014but instead of hiding his right hand in his uniform, he gripped Bobby\u2019s once again human wrists. Clive\u2019s other hand curled in Bobby\u2019s shoulder-length tawny hair, controlling Bobby\u2019s head, pulling it back to expose his naked throat."
+      ]
+    },
+    {
+      "name": "Third Blood",
+      "series": "Haven",
+      "bookNumber": "3",
+      "imagePath": "assets/Images/Thirdblood.png",
+      "description": [
+        "Release information not yet available",
+        "Going home after five years is difficult. It's harder still if you've changed species in the interim.",
+        "Kita Nekai, once the smallest shifter in Firth but now the newest vampire in the city of Haven, has no intention of returning home or informing her father and clan what she's become. Not that she has a choice. When the mage who holds her death certificate in his hands demands Kita return to Firth as his errand runner, she has to comply. Of course, there is no leaving her sire, Nathanial, behind. Which means introducing daddy dearest to the man—well, vampire—she may be falling for and confessing that she's lost the ability to shift. Talk about awkward.",
+        "Her homecoming goes from bad to worse when an attempt is made on her life, and Kita finds herself facing an unknown threat in a hostile world she never fit into in the first place. Can she survive long enough to complete the judge's task, stand trial before the elders for the rogues she created while on the run, and help defend her father's territory from an encroaching band of misfit shifters? Or is this cat down to her last life?"
+      ]
+    },
+    {
+      "name": "Kicking It",
+      "series": "Misc",
+      "imagePath": "assets/Images/KickingIt.jpg",
+      "description": [
+        "Featuring stories by SHANNON K. BUTCHER * RACHEL CAINE * LUCIENNE DIVER * CHRIS MARIE GREEN * CHRISTINA HENRY * FAITH HUNTER * CHLOE NEILL * KALAYNA PRICE * ROB THURMAN",
+        "New York Times bestselling author Rachel Caine has modern-day potions witches Holly and Andrew facing off against a firebrand politician who wears literally killer boots in a Texas-sized rodeo of trouble.",
+        "Boot-loving Cadogan vampire Lindsey must team up with off-again, on-again vampire partner Luc when a woman from her past is targeted by supernaturals in New York Times bestselling author Chloe Neill’s all-new adventure.",
+        "And New York Times bestselling author Rob Thurman features Trixa Iktomi from her Trickster series dealing with magical vengeance and magical footwear.",
+        "Taking kick-ass urban fantasy literally, USA Today bestselling authors Kalayna Price and Faith Hunter bring together the best of the genre to once again prove when you’re fighting supernatural forces, it helps to keep your feet on the ground."
+      ],
+      "genre": "Urban Fantasy",
+      "isbn": "9780451419002",
+      "publisher": "Ace",
+      "stores": [
+        {
+          "name": "Amazon",
+          "link": "http://www.amazon.com/gp/product/0451419006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451419006&linkCode=as2&tag=offisiteofkal-20&linkId=PMFATYGML25JOJ2I"
+        },
+        {
+          "name": "Barnes and Noble",
+          "link": "http://www.barnesandnoble.com/w/kicking-it-faith-hunter/1114980151?ean=9780451419002"
+        },
+        {
+          "name": "Books a Million",
+          "link": "http://www.booksamillion.com/p/Kicking/Faith-Hunter/9780451419002?id=6344013310502"
+        },
+        {
+          "name": "Book Depository",
+          "link": "http://www.bookdepository.com/Kicking-it-Kalayna-Price/9780451419002"
+        }
+      ],
+      "audio": [
+        {
+          "name": "Amazon",
+          "link": "https://www.amazon.com/Kicking-It/dp/B00GY8DBGC/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr="
+        },
+        {
+          "name": "Audible",
+          "link": "https://www.audible.com/pd/Kicking-It-Audiobook/B00GUNHXIS?qid=1549934914&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=S9PH69TD95C19B6R9JAP&"
+        }
+      ]
+    }
 ]

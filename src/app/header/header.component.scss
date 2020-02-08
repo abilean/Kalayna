@@ -16,5 +16,11 @@
 }
 
 #title {
-  justify-self: right;
+  justify-self: center;
+}
+
+@media (max-width: 380px) {
+  #title {
+    font-size: 1em;
+  }
 }
